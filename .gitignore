@@ -1,0 +1,7 @@
+theme/**/*
+html/**/index.html
+html/*.html
+html/graphics/*.html
+_site
+.sass-cache
+_config.yml
