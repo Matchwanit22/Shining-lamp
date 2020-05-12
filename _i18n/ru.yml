@@ -1,0 +1,184 @@
+language: Русский
+lang: ru
+title:
+  index: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+  graphics: "Bitcoin Cash - Logos / Graphics"
+  get-listed: "Submit a listing request"
+meta:
+  index:
+    description: |
+      Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+    twitter:
+      title: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+      description: |
+        Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+    og:
+      title: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+      description: |
+        Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+  graphics:
+    description: |
+      A collection of logos and graphics for Bitcoin Cash.
+    twitter:
+      title: "Bitcoin Cash - Logos / Graphics"
+      description: |
+        A collection of logos and graphics for Bitcoin Cash.
+    og:
+      title: "Bitcoin Cash - Logos / Graphics"
+      description: |
+        A collection of logos and graphics for Bitcoin Cash.
+graphics:
+  title: "Promotional Graphics"
+  description: "These Bitcoin Cash logos and brand assets can be used for display in online services, retail establishments, press or other promotional purposes."
+  logos: "Logos"
+  download_png_svg: "Download Bitcoin Cash logos in PNG and SVG"
+  download_all: "Download All"
+  small: "Small (PNG)"
+  medium: "Medium (PNG)"
+  large: "Large (PNG)"
+  full: "Full (PNG)"
+  vector: "Vector (SVG)"
+  sections:
+    home: "Home"
+    logos: "Logos"
+    merchant: "Merchant"
+    donations: "Donations"
+    identity: "Identity"
+  types:
+    primary: "BCH Logo Primary"
+    white: "BCH Logo White Text"
+    mark: "BCH Logo Mark"
+    horizontal_primary: "BCH Logo Horizontal Primary"
+    horizontal_white: "BCH Logo Horizontal White"
+    wallets_exchanges: "BCH Logo For Wallets / Exchanges"
+  merchant:
+    title: "Merchant Buttons"
+    description: "Show your customers that you accept Bitcoin Cash"
+    primary: "Bitcoin Cash Accepted Here Primary"
+    orange: "Bitcoin Cash Accepted Here Orange"
+  donation:
+    title: "Donation Buttons"
+    description: "Promote the acceptance of Bitcoin Cash as a donation method."
+    primary: "Bitcoin Cash Donations Accepted Primary"
+    orange: "Bitcoin Cash Donations Accepted Orange"
+  identity:
+    title: "Visual Identity"
+    description: "Bitcoin Cash fonts, colors, and more."
+    font: "Ubuntu Bold"
+    font_italic: "Ubuntu Bold Italic"
+    download: "Download Font"
+    orange: "Bitcoin Cash Orange"
+    grey: "Bitcoin Cash Grey"
+    white: "Bitcoin Cash White"
+    hex: "Hex"
+    rgb: "RGB"
+    cmyk: "CMYK"
+    pantone: "Pantone"
+misc:
+  logo: "лого"
+  dropdown_md_width: "2"
+  dropdown_sm_width: "3"
+sections:
+  about: "О"
+  features: "Функции"
+  nodes: "Узлы"
+  wallets: "Кошельки"
+  community: "Сообщество"
+  services: "Услуги"
+  projects: "Проекты"
+  exchanges: "Биржи"
+  graphics: "Logos / Graphics"
+  faq: "ЧЗВ"
+layout:
+  bitcoin_cash: "Bitcoin Cash"
+  lead: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+  loading: "Загружается..."
+features:
+  - title: "Быстро"
+    description: "Перечисление за секунды. Подтверждение в считанные минуты."
+  - title: "Надежно"
+    description: "Сеть, которая работает без перегрузок."
+  - title: "Низкая комиссия"
+    description: "Отправлять деньги по всему миру за гроши."
+  - title: "Просто"
+    description: "Простота в использовании. Никаких сложностей."
+  - title: "Стабильно"
+    description: "Платежная система, которая является проверенным средством сбережения."
+  - title: "Безопасно"
+    description: "Самая прочная в мире технология блокчейн."
+headings:
+  about: "Лучшая Валюта в Мире"
+  nodes: "Узлы"
+  wallets: "Кошельки"
+  services: "Услуги"
+  projects: "Проекты"
+  exchanges: "Биржи"
+  faq: "Часто Задаваемые Вопросы"
+  listingrequest: "Submit a listing request"
+content:
+  about:
+    - |
+      Bitcoin Cash предоставляет миру прочную валюту, выполняя изначальное предназначение Bitcoin как "Пиринговая Цифровая Валюта". Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+    - |
+      Все держатели Bitcoin на блоке 478558 также являются владельцами Bitcoin Cash. Вы можете присоединиться к сообществу Bitcoin Cash, помогая нам создавать прочную валюту, доступную для всего мира.
+  faq:
+    - question: "Что такое Bitcoin Cash?"
+      answer:
+        - |
+          Bitcoin Cash это пиринговая цифровая валюта для Интернета. Она полностью децентрализована, без центрального банка и не требует наличия доверенных третьих сторон.
+    - question: "Отличается ли Bitcoin Cash от 'Bitcoin'?"
+      answer:
+        - |
+          Да. Bitcoin Cash является продолжением проекта Bitcoin как пиринговая электронная валюта. Она является форком Bitcoin блокчейна с улучшенными правилами консенсуса, которые позволяют валюте расти и масштабироваться.
+    - question: "Если я владею Bitcoin, владею ли я также автоматически Bitcoin Cash?"
+      answer:
+        - |
+          Любой, кто имел Bitcoin в то время, когда был создан Bitcoin Cash, стал владельцем Bitcoin Cash. Это означает, что держатели Bitcoin на блоке 478558 (1 августа 2017 года около 13:16 УГВ) имеют одинаковое количество Bitcoin Cash, так как в то время у них был Bitcoin. Если ваши Bitcoin хранятся у третьей стороны, например на бирже, вы должны запросить у них о ваших Bitcoin Cash.
+        - |
+          Любые транзакции после раскола в 1 августа полностью разделены между Bitcoin и Bitcoin Cash. Это означает, что любой Bitcoin, приобретенный после раскола, не включает в себя Bitcoin Cash, и любые Bitcoin Cash не включает в себя Bitcoin.
+    - question: "Как прошло переименование транзакций между новой и старой блочной цепочкой?"
+      answer:
+        - |
+          Bitcoin Cash транзакции используют новый алгоритм хеширования подписей, указанный флагом SIGHASH_FORKID. Эти подписи недействительны в сети Bitcoin Legacy. Это предотвращает повторение транзакций Bitcoin Cash на блочной цепочке Bitcoin и наоборот.
+    - question: "Почему нужен был форк, чтобы создать Bitcoin Cash?"
+      answer:
+        - |
+          Унаследованный Bitcoin код имел максимальный предел в 1 МБ данных на блок, или около 3-ех транзакций в секунду. Несмотря на то, что технически это просто поднять этот предел, сообщество не смогло достичь консенсуса даже после долгих дебатов.
+    - question: "Был ли лимит размера блока в 1 МБ причиной проблем для Биткойн?"
+      answer:
+        - |
+          Да, в 2017 году, объем достиг «невидимой стены». Комиссии резко выросли, и Bitcoin стал ненадежным, и некоторые пользователи не смогли подтвердить свои транзакции, даже после нескольких дней ожидания.
+        - |
+          Рыночная цена Bitcoin увеличилась, но ее рост и полезность в качестве валюты застопорились. Многие пользователи, предприниматели, бизнесы и даже инвесторы покинули Bitcoin выбирая альтернативы, в результате чего ее доминирование упало с 95% до 40%.
+    - question: "Решает ли Bitcoin Cash эти проблемы?"
+      answer:
+        - |
+          Да. Bitcoin Cash сразу же поднял лимит размера блока до 8 МБ в рамках массового применения количественной шкалы по цепочке. Имеется значительный резерв для транзакций каждого.
+        - |
+          Низкие комиссии и быстрое подтверждение возобновились с помощью Bitcoin Cash. Сеть снова растет. Пользователи, предприниматели, бизнесы и инвесторы продолжают создавать будущее с реальной пиринговой валютой.
+    - question: "Почему Bitcoin не увеличил размер блока, если это было легко сделать?"
+      answer:
+        - |
+          Некоторые разработчики не понимали и не соглашались с <a href="/bitcoin.pdf" target="_blank"> оригинальной версией пиринговой электронной валюты</a>, которую создал Сатоси Накамото. <a href="https://medium.com/@jgarzik/bitcoin-is-being-hot-wired-for-settlement-a5beb1df223a" target="_blank"> Вместо этого, они предпочли, чтобы Bitcoin стал слоем урегулирования </a>.
+        - |
+          Многие майнеры и пользователи доверяли этим разработчикам, в то время как другие признавали, что они ведут сообщество по другому пути, чем предназначалось.
+        - |
+          Эти два очень разных видения для Bitcoin в значительной степени несовместимы, что привело к разрыву сообщества.
+    - question: "Разве SegWit не увеличил объем блока? Будет ли когда-то у Bitcoin Cash SegWit?"
+      answer:
+        - |
+          Segregated Witness (сокращенно SegWit, в переводе с английского "отдельный свидетель") не является приемлемой заменой для увеличения размера блоков по нескольким причинам.
+        - |
+          Во-первых, даже если он используется в 100% транзакций, увеличение будет равняться 1,7 МБ блоков. Таким образом, в лучшем случае это только небольшое увеличение объема. Это не сможет справиться с экспоненциальным ростом или с глобальным использованием. Во-вторых, имплементация софт форка приводит к отбрасовым подписям, которые <a href="https://bitcrust.org/blog-incentive-shift-segwit" target="_blank">ослабляют надежность модели Bitcoin.</a> В-третьих, это затрудняет увеличение объема в будущем из-за неэффективности скорости пропускания и квадратичных атак хэширования, которые SegWit не решает, так как атакующий не вынужден его использовать.
+        - |
+          Из-за этих (и других) причин, Bitcoin Cash был необходим как пред-SegWit форк. Segwit принят не будет.
+    - question: "Которая команда разработчиков отвечает за Bitcoin Cash?"
+      answer:
+        - |
+          В отличие от ситуации с Bitcoin, у Bitcoin Cash нет единой команды разработчиков. В настоящее время существует несколько независимых групп разработчиков.
+        - |
+          Такая децентрализация разработки (и децентрализация программных реализаций) является очень важным и нужным шагом вперед.
+    - question: "Какой тикер у Bitcoin Cash?"
+      answer:
+        - |
+          Bitcoin Cash обычно представлен под тикером BCH.
