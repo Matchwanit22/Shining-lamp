@@ -1,0 +1,52 @@
+<div class="reminder-bar">
+ <div class="panel-default container">
+  <div class="row">
+   <div>
+       <h4 class="panel-title">
+           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" onclick="event.preventDefault();">
+               <ion-icon name="construct"></ion-icon>
+               {% t 'networkupgrade.reminder' %}: {% t 'networkupgrade.date-2020-05-15' %} {% t 'networkupgrade.title' %}
+           </a>
+       </h4>
+   </div>
+   <div id="collapseOne" class="panel-collapse collapse">
+     <div class="panel-body">
+       <div class='col-sm-12 col-md-6'>
+           <h3>{% t 'networkupgrade.date-2020-05-15' %} {% t 'networkupgrade.title' %}</h3>
+           <p>{% t 'networkupgrade.description' %}</p>
+
+           <a href="#" class="btn btn-secondary" data-toggle="collapse" data-target="#collapseOne" onclick="event.preventDefault();"><ion-icon name="close"></ion-icon> {% t 'networkupgrade.close' %}</a>
+           <a href="roadmap.html" class="btn btn-secondary inner-link"><ion-icon name="git-merge"></ion-icon> {% t 'headings.roadmap' %}</a>
+
+       </div>
+         <div class="col-sm-12 col-md-6 text-center reminder-links">
+           <h4>{% t 'networkupgrade.compatible' %}:</h4>
+           <a href="https://github.com/Bitcoin-ABC/bitcoin-abc/releases/tag/v0.21.1" title="Bitcoin ABC 0.21.1" target="_blank">
+               <ion-icon name="link"></ion-icon> Bitcoin ABC 0.21.1
+           </a>
+           <h4>{% t 'networkupgrade.additional' %}:</h4>
+           <a href="https://www.bitcoincash.org/spec/2020-05-15-upgrade.html" title="Upgrade Specification" target="_blank">
+               <ion-icon name="link"></ion-icon> {% t 'networkupgrade.specification' %}
+           </a>
+         </div>
+       </div>
+     </div>
+   </div>
+  </div>
+</div>
+
+<section id="fh5co-home" data-section="home" class="home site-header">
+  <div class="container">
+    <div class="row">
+      <div class="hero-logo to-animate col-sm-8 col-md-9 col-lg-7">
+        <h3>{% t 'layout.lead' %}</h3>
+        <h4>{% t 'layout.leadsubtitle' %}</h4>
+
+        <a href="#step-section" class="btn btn-default inner-link" data-scroll-class="-30vh:active">{% t 'layout.herobutton_one' %}</a>
+        <a href="wallets.html" class="btn btn-default">{% t 'layout.herobutton_two' %}</a>
+      </div>
+    </div>
+  </div>
+  <span id="ticker_value" class="to-animate">{% t 'layout.loading' %}</span>
+  <div class="slant"></div>
+</section>
