@@ -1,0 +1,313 @@
+language: English
+title:
+  index: "Bitcoin Cash - Peer-to-Peer Electronic Cash"
+  graphics: "Bitcoin Cash - Logos / Graphics"
+  get-listed: "Submit a listing request"
+meta:
+  index:
+    description: |
+      Bitcoin Cash brings sound money to the world. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.
+    twitter:
+      title: "Bitcoin Cash - Peer-to-Peer Electronic Cash"
+      description: |
+        Bitcoin Cash brings sound money to the world. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.
+    og:
+      title: "Bitcoin Cash - Peer-to-Peer Electronic Cash"
+      description: |
+        Bitcoin Cash brings sound money to the world. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.
+  graphics:
+    description: |
+      A collection of logos and graphics for Bitcoin Cash.
+    twitter:
+      title: "Bitcoin Cash - Logos / Graphics"
+      description: |
+        A collection of logos and graphics for Bitcoin Cash.
+    og:
+      title: "Bitcoin Cash - Logos / Graphics"
+      description: |
+        A collection of logos and graphics for Bitcoin Cash.
+graphics:
+  title: "Promotional Graphics"
+  description: "These Bitcoin Cash logos and brand assets can be used for display in online services, retail establishments, press or other promotional purposes."
+  logos: "Logos"
+  download_png_svg: "Download Bitcoin Cash logos in PNG and SVG"
+  download_all: "Download All"
+  small: "Small (PNG)"
+  medium: "Medium (PNG)"
+  large: "Large (PNG)"
+  full: "Full (PNG)"
+  vector: "Vector (SVG)"
+  sections:
+    donations: "Donations"
+    home: "Home"
+    logos: "Logos"
+    merchant: "Merchant"
+    identity: "Identity"
+  types:
+    primary: "BCH Logo Primary"
+    white: "BCH Logo White Text"
+    mark: "BCH Logo Mark"
+    horizontal_primary: "BCH Logo Horizontal Primary"
+    horizontal_white: "BCH Logo Horizontal White"
+    wallets_exchanges: "BCH Logo For Wallets / Exchanges"
+  merchant:
+    title: "Merchant Buttons"
+    description: "Show your customers that you accept Bitcoin Cash"
+    primary: "Bitcoin Cash Accepted Here Primary"
+    orange: "Bitcoin Cash Accepted Here Orange"
+  donation:
+    title: "Donation Buttons"
+    description: "Promote the acceptance of Bitcoin Cash as a donation method."
+    primary: "Bitcoin Cash Donations Accepted Primary"
+    orange: "Bitcoin Cash Donations Accepted Orange"
+  identity:
+    title: "Visual Identity"
+    description: "Bitcoin Cash fonts, colors, and more."
+    font: "Ubuntu Bold"
+    font_italic: "Ubuntu Bold Italic"
+    download: "Download Font"
+    orange: "Bitcoin Cash Orange"
+    grey: "Bitcoin Cash Grey"
+    white: "Bitcoin Cash White"
+    hex: "Hex"
+    rgb: "RGB"
+    cmyk: "CMYK"
+    pantone: "Pantone"
+developers:
+  title: "Create amazing apps with Bitcoin Cash"
+  description: "Resources for developers, by developers."
+  sections:
+    home: "Home"
+    getStarted: "Get Started"
+    news: "News"
+  getStarted:
+    tech:
+      title: "Tech"
+      description: "Open Tech for Everyone"
+    learn:
+      title: "Learn"
+      description: "Learn Bitcoin Cash development"
+    tools:
+      title: "Tools"
+      description: "Everything needed to make it happen"
+    workgroups:
+      title: "Work Groups"
+      description: "Community coordination"
+    specs:
+      title: "Specs"
+      description: "Vocabulary and associated APIs for Bitcoin Cash"
+workgroups:
+  title: "BITCOIN CASH WORKGROUPS"
+  description: "Technical community working collectively"
+  sections:
+    workgroups: "Work Groups"
+    home: "Home"
+  tutorials:
+    title: "tutorials"
+    description: "Step by step guides to take you from basics to professional grade apps"
+  workgroups:
+    description: "The following is a topical list of Bitcoin Cash Development Workgroups.  Each group should be focused around a specific subject.  They may exist for a limited time, or be of ongoing interest."
+    sections:
+      communication: "Communication"
+      officers: "Officers"
+      parties: "Interested Parties"
+      summaries: "Summaries"
+    wg-daa:
+      title: "Dificulty Adjustment Algorithm"
+      description: "Workgroup for researching and discussing the latest technology for difficulty adjustments and implmenting them on the Bitcoin Cash."
+    wg-blocksize:
+      title: "Block Size Increases"
+      description: "This meeting exists to discuss all topics regarding expanding the block size."
+    wg-fungibility:
+      title: "Fungibility"
+      description: "Discussion workgroup for issues surrounding better privacy protections on Bitcoin Cash."
+    wg-hardforks:
+      title: "Regular Hardfork Mechanism"
+      description: "Defining a specification for how Bitcoin Cash node implementations will execute hardforks on a regular basis."
+    wg-malfix:
+      title: "Malleability Fixes"
+      description: "Fixes to transaction malleability to enable various other technologies on top of the Bitcoin Cash blockcahin."
+    wg-opcodes:
+      title: "Op Codes"
+      description: "Proposing the re-enablement of various opcodes and creating well-defined specifications for the behavior and roll-out of each op-code."
+    wg-protocol-spec:
+      title: "Formal Protocol Specification"
+      description: "The purpose of this workgroup is to coordinate the development, review and acceptance of a formal definition document for the bitcoin cash protocol. Initially it is envisaged that the scope will be limited to hard consensus rules but later extending into soft rules."
+    wg-qa:
+      title: "Quality Assurance"
+      description: "Defining quality standards against which a node implementation may be certified against."
+    wg-sidechains:
+      title: "Sidechains"
+      description: "Discussion related to sidechains on Bitcoin Cash and in general."
+    wg-tokens:
+      title: "Tokens"
+      description: "Discussion related to tokens on Bitcoin Cash."
+    wg-utxocommit-sync:
+      title: "UTXO Commitments and Syncing"
+      description: "Defining quality standards against which a node implementation may be certified against."
+    wg-ux:
+      title: "User Experience"
+      description: "Planning and coordination for advancements in Bitcoin Cash Wallets."
+    wg-watercooler:
+      title: "Watercooler"
+      description: "Discussion related to sidechains on Bitcoin Cash and in general."
+learn:
+  title: "Learn Bitcoin Cash development"
+  description: "Pick up new skills to create amazing things"
+  sections:
+    home: "Home"
+    tutorials: "Tutorials"
+  tutorials:
+    title: "tutorials"
+    description: "Step by step guides to take you from basics to professional grade apps"
+specs:
+  title: "Bitcoin Cash Developer Portal"
+  description: "The following is a topical list of Bitcoin Cash Development Workgroups. Each group should be focused around a specific subject. They may exist for a limited time, or be of ongoing interest."
+  sections:
+    home: "Home"
+    workgroups: "Workgroups"
+    specifications: "Specifications"
+    ecosystem: "Ecosystem"
+  specifications:
+    title: "Bitcoin Cash Specifications"
+    description: "The following is a list of upcoming and past Bitcoin Cash upgrades."
+  ecosystem:
+    title: "Bitcoin Cash Ecosystem"
+    description: ""
+tech:
+  title: "Open Tech for Everyone"
+  description: "Money touches everyone on earth. Bitcoin Cash is the best money in history."
+  sections:
+    home: "Home"
+    foundation: "Foundation"
+    emerging: "Emerging"
+  foundation:
+    title: "Foundation"
+    description: "The knowledge needed to start your journey"
+  emerging:
+    title: "Emerging"
+    description: "The ever changing and growing world of Bitcoin Cash"
+tools:
+  title: "Tools"
+  description: "Want to change the world w/ Bitcoin Cash? Great, here are the tools you need to make it happen."
+  sections:
+    home: "Home"
+    javascript: "Javascript"
+  javascript:
+    title: "Javascript"
+misc:
+  logo: "logo"
+  dropdown_md_width: "3"
+  dropdown_sm_width: "3"
+sections:
+  about: "About"
+  features: "Features"
+  nodes: "Nodes"
+  wallets: "Wallets"
+  community: "Community"
+  services: "Services"
+  projects: "Projects"
+  exchanges: "Exchanges"
+  graphics: "Logos / Graphics"
+  developers: "Developer Portal"
+  learn: "Learning"
+  specs: "Spec Documents"
+  tech: "Technology"
+  tools: "Tools"
+  workgroups: "Work Groups"
+  faq: "FAQ"
+layout:
+  bitcoin_cash: "Bitcoin Cash"
+  lead: "Peer-to-Peer Electronic Cash"
+  loading: "Loading..."
+features:
+  - title: "Fast"
+    description: "Transact in seconds. Get confirmed in minutes."
+  - title: "Reliable"
+    description: "A network that runs without congestion."
+  - title: "Low Fees"
+    description: "Send money globally for pennies."
+  - title: "Simple"
+    description: "Easy to use. No hassles."
+  - title: "Stable"
+    description: "A payment system that's a proven store of value."
+  - title: "Secure"
+    description: "World's most robust blockchain technology."
+headings:
+  about: "The Best Money in the World"
+  developers: "Get Started"
+  exchanges: "Exchanges"
+  faq: "Frequently Asked Questions"
+  news: "News"
+  nodes: "Nodes"
+  projects: "Projects"
+  services: "Services"
+  wallets: "Wallets"
+  listingrequest: "Submit a listing request"
+content:
+  about:
+    - |
+      Bitcoin Cash brings sound money to the world, fulfilling the original promise of Bitcoin as "Peer-to-Peer Electronic Cash". Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.
+    - |
+      All Bitcoin holders as of block 478558 are also owners of Bitcoin Cash. All are welcome to join the Bitcoin Cash community as we move forward in creating sound money accessible to the whole world.
+  faq:
+    - question: "What is Bitcoin Cash?"
+      answer:
+        - |
+          Bitcoin Cash is peer-to-peer electronic cash for the Internet. It is fully decentralized, with no central bank and requires no trusted third parties to operate.
+    - question: "Is Bitcoin Cash different from 'Bitcoin'?"
+      answer:
+        - |
+          Yes. Bitcoin Cash is the continuation of the Bitcoin project as peer-to-peer digital cash. It is a fork of the Bitcoin blockchain ledger, with upgraded consensus rules that allow it to grow and scale.
+    - question: "If I own Bitcoin, do I automatically own Bitcoin Cash too?"
+      answer:
+        - |
+          Anyone who held Bitcoin at the time Bitcoin Cash was created became owners of Bitcoin Cash. This means that Bitcoin holders as of block 478558 (August 1st, 2017 about 13:16 UTC) have the same amount of Bitcoin Cash as they had Bitcoin at that time. If your Bitcoins are stored by a third party such as an exchange, then you must inquire with them about your Bitcoin Cash.
+        - |
+          Any transactions after the August 1st ledger split are completely separate between Bitcoin and Bitcoin Cash. This means any Bitcoin acquired after the split does not include any Bitcoin Cash, and any Bitcoin Cash does not include any Bitcoin.
+    - question: "How is transaction replay being handled between the new and the old blockchain?"
+      answer:
+        - |
+          Bitcoin Cash transactions use a new signature hashing algorithm indicated by the flag SIGHASH_FORKID. These signatures are not valid on the Bitcoin Legacy network. This prevents Bitcoin Cash transactions from being replayed on the Bitcoin blockchain and vice versa.
+    - question: "Why was a fork necessary to create Bitcoin Cash?"
+      answer:
+        - |
+          The legacy Bitcoin code had a maximum limit of 1MB of data per block, or about 3 transactions per second. Although technically simple to raise this limit, the community could not reach a consensus, even after years of debate.
+    - question: "Was the 1 MB block size limit causing problems for Bitcoin?"
+      answer:
+        - |
+          Yes, in 2017, capacity hit the 'invisible wall'. Fees skyrocketed, and Bitcoin became unreliable, with some users unable to get their transactions confirmed, even after days of waiting.
+        - |
+          Bitcoin's market price has increased, but its growth and usefulness as a currency has stagnated. Many users, merchants, businesses and even investors left Bitcoin for alternatives, causing its dominance to fall from 95% to as low as 40%.
+    - question: "Does Bitcoin Cash fix these problems?"
+      answer:
+        - |
+          Yes. Bitcoin Cash immediately raised the block size limit to 8MB as part of a massive on-chain scaling approach. There is ample capacity for everyone's transactions.
+        - |
+          Low fees and fast confirmations have returned with Bitcoin Cash. The network is growing again. Users, merchants, businesses, and investors are building the future with real peer to peer cash.
+    - question: "Why didn't Bitcoin raise the block size if it was easy?"
+      answer:
+        - |
+          Some of the developers did not understand and agree with the <a href="/bitcoin.pdf" target="_blank">original vision of peer-to-peer electronic cash</a> that Satoshi Nakamoto had created. <a href="https://medium.com/@jgarzik/bitcoin-is-being-hot-wired-for-settlement-a5beb1df223a" target="_blank">Instead, they preferred Bitcoin become a settlement layer</a>.
+        - |
+          Many miners and users trusted these developers, while others recognized that they were leading the community down a different road than expected.
+        - |
+          These two very different visions for Bitcoin are largely incompatible, which led to the community divide.
+    - question: "Didn't SegWit increase the block capacity? Will Bitcoin Cash ever have SegWit?"
+      answer:
+        - |
+          Segregated Witness or "SegWit" is an unacceptable substitute for increasing the blocksize for several reasons.
+        - |
+          First, even if used in 100% of transactions, the increase would equate to 1.7MB blocks. Thus, it is a small capacity increase at best. It will not handle exponential growth or worldwide usage. Second, the soft fork implementation results in discardable signatures, which <a href="https://bitcrust.org/blog-incentive-shift-segwit" target="_blank">weakens Bitcoin's security model.</a> Third, it makes future capacity increases more difficult due to bandwidth inefficiency and quadratic hashing attacks which SegWit doesn't solve since an attacker isn't forced to use it.
+        - |
+          For those (and other) reasons, Bitcoin Cash was necessary as a pre-SegWit fork. Segwit will not be adopted.
+    - question: "Which Development Team is In Charge of Bitcoin Cash?"
+      answer:
+        - |
+          Unlike the previous situation in Bitcoin, there is no one single development team for Bitcoin Cash. There are now multiple independent teams of developers.
+        - |
+          This decentralization of development (and decentralization of software implementations) is a much needed and important step forward.
+    - question: "What is the ticker symbol for Bitcoin Cash?"
+      answer:
+        - |
+          Bitcoin Cash is usually represented by the ticker symbol BCH.
