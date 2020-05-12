@@ -1,0 +1,306 @@
+tr:
+  language: Türkçe
+  title:
+    index: "Bitcoin Cash - Kişiler Arası Elektronik Nakit"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash dünyaya sağlam parayı getiriyor. Düşük işlem ücretleri ve güvenilir onaylama sayesinde satıcıların ve alıcıların gücünü arttırıyor. Sınırsız büyüme, küresel benimseme, yetki gerektirmeyen yenilikler, ve merkezi olmayan gelişimle daha parlak bir gelecek sunuyor.
+      twitter:
+        title: "Bitcoin Cash - Kişiler Arası Elektronik Nakit"
+        description: |
+          Bitcoin Cash dünyaya sağlam parayı getiriyor. Düşük işlem ücretleri ve güvenilir onaylama sayesinde satıcıların ve alıcıların gücünü arttırıyor. Sınırsız büyüme, küresel benimseme, yetki gerektirmeyen yenilikler, ve merkezi olmayan gelişimle daha parlak bir gelecek sunuyor.
+      og:
+        title: "Bitcoin Cash - Kişiler Arası Elektronik Nakit"
+        description: |
+          Bitcoin Cash dünyaya sağlam parayı getiriyor. Düşük işlem ücretleri ve güvenilir onaylama sayesinde satıcıların ve alıcıların gücünü arttırıyor. Sınırsız büyüme, küresel benimseme, yetki gerektirmeyen yenilikler, ve merkezi olmayan gelişimle daha parlak bir gelecek sunuyor.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "2"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Hakkında"
+    features: "Özellikler"
+    nodes: "Ağ Noktaları"
+    wallets: "Cüzdanlar"
+    community: "Topluluklar"
+    services: "Hizmetler"
+    projects: "Projeler"
+    exchanges: "Takas Merkezleri"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "SSS"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Kişiler Arası Elektonik Nakit"
+    loading: "Yükleniyor..."
+  features:
+    - title: "Hızlı"
+      description: "Saniyeler içinde işlem yapın. Dakikalar içinde onaylansın."
+    - title: "Güvenilir"
+      description: "Sıkışıklık olmayan ağ sistemi."
+    - title: "Düşük Ücretler"
+      description: "Dünyanın herhangi bir yerine birkaç kuruşa para gönderin."
+    - title: "Basit"
+      description: "Kullanımı kolay. Sorunsuz."
+    - title: "Kalıcı"
+      description: "Değer biriktirme aracı olarak kanıtlanmış bir ödeme sistemi."
+    - title: "Emniyetli"
+      description: "Dünyanın en sağlam blokzinciri teknolojisi."
+  headings:
+    about: "Dünyanın En İyi Parası"
+    developers: ""
+    exchanges: "Takas Merkezleri"
+    faq: "Sıkça Sorulan Sorular"
+    news: ""
+    nodes: "Ağ Noktaları"
+    projects: "Projeler"
+    services: "Hizmetler"
+    wallets: "Cüzdanlar"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash, Bitcoin'in esas amacı olan "Kişiler Arası Elektronik Nakit" niteliğini koruyarak dünyaya sağlam parayı sunuyor. Düşük işlem ücretleri ve güvenilir onaylama sayesinde satıcıların ve alıcıların gücünü arttırıyor. Sınırsız büyüme, küresel benimseme, yetki gerektirmeyen yenilikler, ve merkezi olmayan gelişimle daha parlak bir gelecek sunuyor.
+      - |
+    faq:
+      - question: "Bitcoin Cash nedir?"
+        answer:
+          - |
+      - question: "Bitcoin Cash 'Bitcoin'den farklı mıdır?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

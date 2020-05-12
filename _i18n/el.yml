@@ -1,0 +1,306 @@
+el:
+  language: ελληνικά
+  title:
+    index: "Bitcoin Cash - Το ψηφιακό νόμισμα αρχιτεκτονικής ομότιμων κόμβων (P2P)"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Το Bitcoin Cash φέρνει ένα νέο,ισχυρό νόμισμα στην παγκόσμια κοινότητα. Έμποροι και απλοί χρήστες εξουσιοδοτούνται για την χρήση του, πληρώνοντας χαμηλά κόμιστρα σε αξιόπιστες συναλλαγές. Ένα νέο λαμπρό μέλλον με απεριόριστες δυνατότητες επέκτασης, παγκόσμια προσαρμογή, ανεμπόδιστη εφευρετικότητα και αποκεντρωμένη ανάπτυξη και σχεδιασμό.
+      twitter:
+        title: "Bitcoin Cash - Το ψηφιακό νόμισμα αρχιτεκτονικής ομότιμων κόμβων (P2P)"
+        description: |
+          Το Bitcoin Cash φέρνει ένα νέο,ισχυρό νόμισμα στην παγκόσμια κοινότητα. Έμποροι και απλοί χρήστες εξουσιοδοτούνται για την χρήση του, πληρώνοντας χαμηλά κόμιστρα σε αξιόπιστες συναλλαγές. Ένα νέο λαμπρό μέλλον με απεριόριστες δυνατότητες επέκτασης, παγκόσμια προσαρμογή, ανεμπόδιστη εφευρετικότητα και αποκεντρωμένη ανάπτυξη και σχεδιασμό.
+      og:
+        title: "Bitcoin Cash - Το ψηφιακό νόμισμα αρχιτεκτονικής ομότιμων κόμβων (P2P)"
+        description: |
+          Το Bitcoin Cash φέρνει ένα νέο,ισχυρό νόμισμα στην παγκόσμια κοινότητα. Έμποροι και απλοί χρήστες εξουσιοδοτούνται για την χρήση του, πληρώνοντας χαμηλά κόμιστρα σε αξιόπιστες συναλλαγές. Ένα νέο λαμπρό μέλλον με απεριόριστες δυνατότητες επέκτασης, παγκόσμια προσαρμογή, ανεμπόδιστη εφευρετικότητα και αποκεντρωμένη ανάπτυξη και σχεδιασμό.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "Λογότυπο"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "4"
+  sections:
+    about: "Σχετικά με"
+    features: "Χαρακτηριστικά"
+    nodes: "Κόμβοι"
+    wallets: "Πορτοφόλια"
+    community: "Κοινότητα"
+    services: "Υπηρεσίες"
+    projects: "Έργα"
+    exchanges: "Ανταλλακτήρια "
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "Συχνές Ερωτήσεις"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Ψηφιακό νόμισμα αρχιτεκτονικής ομότιμων κόμβων (P2P)"
+    loading: "Φορτώνει..."
+  features:
+    - title: ""
+      description: ""
+    - title: ""
+      description: ""
+    - title: ""
+      description: ""
+    - title: ""
+      description: ""
+    - title: ""
+      description: ""
+    - title: ""
+      description: ""
+  headings:
+    about: "Το καλύτερο χρήμα στον κόσμο"
+    developers: ""
+    exchanges: "Ανταλλακτήρια"
+    faq: "Συχνές Ερωτήσεις"
+    news: ""
+    nodes: "Κόμβοι"
+    projects: "Έργα"
+    services: "Υπηρεσίες"
+    wallets: "Πορτοφόλια"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Το Bitcoin Cash φέρνει ένα ισχυρό νόμισμα στο παγκόσμιο προσκήνιο, εκπληρώνοντας την αρχική υπόσχεση του Bitcoin για ένα ψηφιακό νόμισμα αρχιτεκτονικής ομότιμων κόμβων (P2P). Έμποροι και απλοί χρήστες εξουσιοδοτούνται για την χρήση του, πληρώνοντας χαμηλά κόμιστρα σε αξιόπιστες συναλλαγές. Ένα νέο λαμπρό μέλλον με απεριόριστες δυνατότητες επέκτασης, παγκόσμια προσαρμογή, ανεμπόδιστη εφευρετικότητα και αποκεντρωμένη ανάπτυξη και σχεδιασμό.
+      - |
+    faq:
+      - question: "Τί είναι το Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Το Bitcoin Cash είναι διαφορετικό από το Bitcoin;"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

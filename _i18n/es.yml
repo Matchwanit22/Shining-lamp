@@ -1,0 +1,306 @@
+es:
+  language: Español
+  title:
+    index: "Bitcoin Cash - Dinero electrónico de usuario a usuario"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash es una moneda fuerte para todos. Usuarios y comerciantes pueden ahora disfrutar de comisiones bajas y confirmaciones fiables. El futuro es prometedor gracias a crecimiento sin restricciones, adopción global, innovación que no necesita permisos y desarrollo descentralizado.
+      twitter:
+        title: "Bitcoin Cash - Dinero electrónico de usuario a usuario"
+        description: |
+          Bitcoin Cash es una moneda fuerte para todos. Usuarios y comerciantes pueden ahora disfrutar de comisiones bajas y confirmaciones fiables. El futuro es prometedor gracias a crecimiento sin restricciones, adopción global, innovación que no necesita permisos y desarrollo descentralizado.
+      og:
+        title: "Bitcoin Cash - Dinero electrónico de usuario a usuario"
+        description: |
+          Bitcoin Cash es una moneda fuerte para todos. Usuarios y comerciantes pueden ahora disfrutar de comisiones bajas y confirmaciones fiables. El futuro es prometedor gracias a crecimiento sin restricciones, adopción global, innovación que no necesita permisos y desarrollo descentralizado.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Acerca de"
+    features: "Características"
+    nodes: "Nodos"
+    wallets: "Monederos"
+    community: "Comunidad"
+    services: "Servicios"
+    projects: "Proyectos"
+    exchanges: "Casas de cambio"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Dinero electrónico de usuario a usuario"
+    loading: "Cargando..."
+  features:
+    - title: "Rápido"
+      description: "Transacciones en segundos, confirmaciones en minutos."
+    - title: "Fiable"
+      description: "Una red sin congestión."
+    - title: "Comisiones bajas"
+      description: "Envía dinero a cualquier parte prácticamente gratis."
+    - title: "Simple"
+      description: "Fácil de usar y sin complicaciones."
+    - title: "Estable"
+      description: "Un sistema de pago que demuestra ser una reserva de valor."
+    - title: "Seguro"
+      description: "La tecnología blockchain más robusta del mundo."
+  headings:
+    about: "El mejor dinero del mundo"
+    developers: ""
+    exchanges: "Casas de cambio"
+    faq: "Preguntas frecuentes"
+    news: ""
+    nodes: "Nodos"
+    projects: "Proyectos"
+    services: "Servicios"
+    wallets: "Monederos"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash ofrece una moneda fuerte al mundo, cumpliendo con la promesa inicial de Bitcoin como dinero electrónico de usuario a usuario. Usuarios y comerciantes pueden disfrutar de comisiones bajas y confirmaciones fiables. El futuro es prometedor gracias a crecimiento sin restricciones, adopción global, innovación que no necesita permisos y desarrollo descentralizado.
+      - |
+    faq:
+      - question: "¿Qué es Bitcoin Cash?"
+        answer:
+          - |
+      - question: "¿Bitcoin Cash es diferente de 'Bitcoin'?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

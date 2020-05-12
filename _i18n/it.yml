@@ -1,0 +1,306 @@
+it:
+  language: Italiano
+  title:
+    index: "Bitcoin Cash - Denaro Contante Peer-to-Peer"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash porta al mondo moneta sonante. Commissioni economiche e conferme affidabili vanno a vantaggio di commercianti e clienti. Il futuro sarà luminoso grazie a una crescita senza restrizioni, adozione globale, innovazione libera e sviluppo decentralizzato.
+      twitter:
+        title: "Bitcoin Cash - Denaro Contante Peer-to-Peer"
+        description: |
+          Bitcoin Cash porta al mondo moneta sonante. Commissioni economiche e conferme affidabili vanno a vantaggio di commercianti e clienti. Il futuro sarà luminoso grazie a una crescita senza restrizioni, adozione globale, innovazione libera e sviluppo decentralizzato.
+      og:
+        title: "Bitcoin Cash - Denaro Contante Peer-to-Peer"
+        description: |
+          Bitcoin Cash porta al mondo moneta sonante. Commissioni economiche e conferme affidabili vanno a vantaggio di commercianti e clienti. Il futuro sarà luminoso grazie a una crescita senza restrizioni, adozione globale, innovazione libera e sviluppo decentralizzato.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "2"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Info"
+    features: "Caratteristiche"
+    nodes: "Nodi"
+    wallets: "Portafogli"
+    community: "Comunità"
+    services: "Servizi"
+    projects: "Progetti"
+    exchanges: "Siti di scambio"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Denaro Contante Peer-to-Peer"
+    loading: "In caricamento..."
+  features:
+    - title: "Veloce"
+      description: "Transazioni in secondi. Conferme in minuti."
+    - title: "Affidabile"
+      description: "Una rete che funziona senza ingorghi."
+    - title: "Commissioni economiche"
+      description: "Inviare soldi nel mondo per pochi centesimi."
+    - title: "Semplice"
+      description: "Facile da usare. Zero fastidi."
+    - title: "Stabile"
+      description: "Un sistema di pagamento che è anche riserva di valore."
+    - title: "Sicuro"
+      description: "La tecnologia blockchain più sicura al mondo."
+  headings:
+    about: "Il Miglior Denaro del Mondo"
+    developers: ""
+    exchanges: "Borse di scambio"
+    faq: "Domande Frequenti"
+    news: ""
+    nodes: "Nodi"
+    projects: "Progetti"
+    services: "Servizi"
+    wallets: "Portafogli"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash porta al mondo moneta sonante, realizza l'originale promessa di Bitcoin in quanto "Denaro Elettroinico Peer-to-Peer (da pari a pari)". Commissioni economiche e conferme affidabili vanno a vantaggio di commercianti e clienti. Il futuro sarà luminoso grazie a una crescita senza restrizioni, adozione globale, innovazione libera e sviluppo decentralizzato.
+      - |
+    faq:
+      - question: "Cos'è Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Bitcoin Cash è diverso da 'Bitcoin'?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

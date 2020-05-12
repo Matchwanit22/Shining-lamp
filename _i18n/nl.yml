@@ -1,0 +1,309 @@
+nl:
+  language: Nederlands
+  title:
+    index: "Bitcoin Cash - Peer-to-Peer Digitaal Geld"
+    graphics: "Bitcoin Cash - logo's / afbeeldingen"
+    get-listed: "vermeldingsaanvraag indienen"
+  meta:
+    index:
+      description: |
+        Bitcoin Cash brengt betrouwbaar geld naar de wereld. Verkopers en gebruikers zijn verzekerd van lage transactiekosten en betrouwbare bevestigingen. De toekomst ziet er veelbelovend uit door onbeperkte groei, wereldwijde adoptie, vrije innovatie en decentrale ontwikkeling.
+      twitter:
+        title: "Bitcoin Cash - Peer-to-Peer Digitaal Geld"
+        description: |
+          Bitcoin Cash brengt betrouwbaar geld naar de wereld. Verkopers en gebruikers zijn verzekerd van lage transactiekosten en betrouwbare bevestigingen. De toekomst ziet er veelbelovend uit door onbeperkte groei, wereldwijde adoptie, vrije innovatie en decentrale ontwikkeling.
+      og:
+        title: "Bitcoin Cash - Peer-to-Peer Digitaal Geld"
+        description: |
+          Bitcoin Cash brengt betrouwbaar geld naar de wereld. Verkopers en gebruikers zijn verzekerd van lage transactiekosten en betrouwbare bevestigingen. De toekomst ziet er veelbelovend uit door onbeperkte groei, wereldwijde adoptie, vrije innovatie en decentrale ontwikkeling.
+    graphics:
+      description: |
+        Een collectie logos and afbeeldingen voor Bitcoin Cash
+      twitter:
+        title: "Bitcoin Cash - Logo's / Afbeeldingen"
+        description: |
+          Een collectie logos and afbeeldingen voor Bitcoin Cash
+      og:
+        title: "Bitcoin Cash - Logo's / Afbeeldingen"
+        description: |
+          Een collectie logos and afbeeldingen voor Bitcoin Cash
+  graphics:
+    title: "Promotie afbeeldingen"
+    description: "Deze Bitcoin Cash logos and merk activa kunnen gebruikt worden voor weergave in online services, winkelbedrijven, pers of andere promotionele doeleinden."
+    logos: "Logos"
+    download_png_svg: "Download Bitcoin Cash logos in PNG en SVG formaat"
+    download_all: "Download Alle"
+    small: "Klein (PNG)"
+    medium: "Medium (PNG)"
+    large: "Groot (PNG)"
+    full: "Vol (PNG)"
+    vector: "Vector (SVG)"
+    sections:
+      donations: "Donaties"
+      home: "Home"
+      logos: "Logos"
+      merchant: "winkelier"
+      identity: "Identiteit"
+    types:
+      primary: "BCH Logo Primair"
+      white: "BCH Logo Witte Text"
+      mark: "BCH Logo Mark"
+      horizontal_primary: "BCH Logo Horizontaal Primair"
+      horizontal_white: "BCH Logo Horizontaal Wit"
+      wallets_exchanges: "BCH Logo Voor Wallets en Exchanges"
+    merchant:
+      title: "Winkeliersknoppen"
+      description: "Laat uw klanten zien dat u Bitcoin Cash accepteert"
+      primary: "Bitcoin Cash Accepted Here Primair"
+      orange: "Bitcoin Cash Accepted Here Oranje"
+    donation:
+      title: "Donatie knoppen"
+      description: "Bevorder de acceptatie van Bitcoin Cash als een donatie methode"
+      primary: "Bitcoin Cash Donations Accepted Primair"
+      orange: "Bitcoin Cash Donations Accepted Oranje"
+    identity:
+      title: "Visuele Identiteit"
+      description: "Bitcoin Cash lettertypen, kleuren en meer."
+      font: "Ubuntu Bold"
+      font_italic: "Ubuntu Bold Italic"
+      download: "Download Lettertype"
+      orange: "Bitcoin Cash Oranje"
+      grey: "Bitcoin Cash Grijs"
+      white: "Bitcoin Cash White"
+      hex: "Hex"
+      rgb: "RGB"
+      cmyk: "CMYK"
+      pantone: "Pantone"
+  developers:
+    title: "Creëer geweldige apps met Bitcoin Cash"
+    description: "Middelen voor ontwikkelaars, door ontwikkelaars."
+    sections:
+      home: "Home"
+      getStarted: "Begin"
+      news: "Nieuws"
+    getStarted:
+      tech:
+        title: "Technologie"
+        description: "Open Technologie voor Iedereen"
+      learn:
+        title: "Leer"
+        description: "Leer Bitcoin Cash Development"
+      tools:
+        title: "Gereedschap"
+        description: "Alle benodigdheden om het te laten gebeuren"
+      workgroups:
+        title: "Werkgroepen"
+        description: "Gemeenschapscoördinatie"
+      specs:
+        title: "Specificaties"
+        description: "Woordenlijst en bijbehorende API's voor Bitcoin Cash"
+  workgroups:
+    title: "BITCOIN CASH WERKGROEPEN"
+    description: "Technische gemeenschap werkt samen"
+    sections:
+      workgroups: "Werkgroepen"
+      home: "Home"
+    tutorials:
+      title: "tutorials"
+      description: "Stap voor stap handleidingen om u van basisbeginselen naar professionele apps te brengen"
+    workgroups:
+      description: "Hier volgt een actuele lijst van Bitcoin Cash Development  Werkgroepen. Elke group dient zich te focussen op een specifiek onderwerp. Ze kunnen van tijdelijke aard zijn of van voortdurende betekenis. "
+      sections:
+        communication: "Communicatie "
+        officers: "Officieren"
+        parties: "Geïnteresseerde Partijen "
+        summaries: "Samenvattingen"
+      wg-daa:
+        title: "Dificulty Adjustment Algorithm"
+        description: "Werkgroep voor het onderzoeken en bespreken van de nieuwste technologie op het gebied van Moeilijkheidsaanpassing en hoe deze te toe te passen op Bitcoin Cash"
+      wg-blocksize:
+        title: "Block Size Increases"
+        description: "Deze groep bestaat om alle onderwerpen met betrekking tot uitbreiding van de blok grootte te bespreken. "
+      wg-fungibility:
+        title: "Fungibility"
+        description: "Discussie werkgroep voor problemen rond betere privacybescherming op Bitcoin Cash."
+      wg-hardforks:
+        title: "Regular Hardfork Mechanism"
+        description: "Een specificatie definiëren voor hoe Bitcoin Cash Node-implementaties op regelmatige basis hardforks zullen uitvoeren."
+      wg-malfix:
+        title: "Malleability Fixes"
+        description: "Oplossingen voor transaction malleability om verschillende andere technologieën bovenop Bitcoin Cash mogelijk te maken. "
+      wg-opcodes:
+        title: "Op Codes"
+        description: "Voorstel om verschillende Op-Codes te heractiveren en voor de creatie van goed gedetineerde specificaties voor het gedrag en de uitrol van elke Op-Code."
+      wg-protocol-spec:
+        title: "Formele Protocol Specificatie"
+        description: "Het doel van deze werkgroep is ontwikkeling, beoordeling en acceptatie van een formeel definitie document voor het Bitcoin Cash protocol te coördineren. Aanvankelijk is het de bedoeling de reikwijdte te beperken to harde consensus regels maar zich later uit te breiden tot zachte regels. "
+      wg-qa:
+        title: "Quality Assurance"
+        description: "Kwaliteitsnormen definiëren waartegen een node-implementatie kan worden gecertificeerd."
+      wg-sidechains:
+        title: "Sidechains"
+        description: "Discussie gerelateerd aan Sidechains op Bitcoin Cash en in het algemeen. "
+      wg-tokens:
+        title: "Tokens"
+        description: "Discussie gerelateerd aan tokens op Bitcoin Cash"
+      wg-utxocommit-sync:
+        title: "UTXO Commitments and Syncing"
+        description: "Kwaliteitsnormen definiëren waartegen een node-implementatie kan worden gecertificeerd."
+      wg-ux:
+        title: "User Experience"
+        description: "Planning and coordinate voor vooruitgang in Bitcoin Cash-portefeuilles"
+      wg-watercooler:
+        title: "Watercooler"
+        description: "Discussie gerelateerd aan Sidechains op Bitcoin Cash en in het algemeen. "
+  learn:
+    title: "Leer Bitcoin Cash Development"
+    description: "Pak nieuwe vaardigheden op om verbluffende dingen te maken"
+    sections:
+      home: "Home"
+      tutorials: "Tutorials"
+    tutorials:
+      title: "tutorials"
+      description: "Stap voor stap handleidingen om u van basisbeginselen naar professionele apps te brengen"
+  specs:
+    title: "Bitcoin Cash Ontwikkelaarsportaal"
+    description: "Hier volgt een actuele lijst van Bitcoin Cash Development  Werkgroepen. Elke group dient zich te focussen op een specifiek onderwerp. Ze kunnen van tijdelijke aard zijn of van voortdurende betekenis. "
+    sections:
+      home: "Home"
+      workgroups: "Werkgroepen"
+      specifications: "Specificaties"
+      ecosystem: "Ecosysteem"
+    specifications:
+      title: "Bitcoin Cash Specificaties"
+      description: "Hier volgt een lijst van toekomstige en vorige Bitcoin Cash upgrades."
+    ecosystem:
+      title: "Bitcoin Cash Ecosysteem"
+      description: ""
+  tech:
+    title: "Open Tech voor iedereen"
+    description: "Geld raakt iedereen op aarde aan. Bitcoin Cash is het beste geld in de geschiedenis."
+    sections:
+      home: "Home"
+      foundation: "Fundament"
+      emerging: "Opkomende"
+    foundation:
+      title: "Fundament"
+      description: "De kennis nodig om je reis te beginnen"
+    emerging:
+      title: "Opkomende"
+      description: "De altijd veranderende en groeiende wereld van Bitcoin Cash"
+  tools:
+    title: "Gereedschap"
+    description: "Will je de wereld veranderen met Bitcoin Cash? Goed zo, hier zijn de middelen die je nodig hebt om het te laten gebeuren. "
+    sections:
+      home: "Home"
+      javascript: "Javascript"
+    javascript:
+      title: "Javascript"
+  misc:
+    logo: "logo"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Over"
+    features: "Features"
+    nodes: "Nodes"
+    wallets: "Wallets"
+    community: "Community"
+    services: "Diensten"
+    projects: "Projecten"
+    exchanges: "Exchanges"
+    graphics: "Logos / Afbeeldingen"
+    developers: "Ontwikkelaarsportaal"
+    learn: "Leren"
+    specs: "Specificatie Documenten"
+    tech: "Technologie"
+    tools: "Gereedschappen "
+    workgroups: "Werkgroepen"
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Peer-to-Peer Digitaal Geld"
+    loading: "Laden..."
+  features:
+    - title: "Snel"
+      description: "Koop of verkoop in seconden. Binnen enkele minuten bevestigd."
+    - title: "Betrouwbaar"
+      description: "Een netwerk zonder datacongestie."
+    - title: "Lage transactiekosten"
+      description: "Wereldwijd geld versturen voor centen."
+    - title: "Simpel"
+      description: "Makkelijk in gebruik. Geen gedoe."
+    - title: "Stabiel"
+      description: "Een betaalsysteem dat een bewezen oppotmiddel is."
+    - title: "Betrouwbaar"
+      description: "'s Werelds meest robuuste blockchain-technologie."
+  headings:
+    about: "Het beste geld ter wereld"
+    developers: "Begin"
+    exchanges: "Exchanges"
+    faq: "Veelgestelde vragen"
+    news: "Nieuws"
+    nodes: "Nodes"
+    projects: "Projecten"
+    services: "Diensten"
+    wallets: "Wallets"
+    listingrequest: "vermeldingsaanvraag indienen"
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash brengt betrouwbaar geld naar de wereld en vervult de oorspronkelijke belofte van Bitcoin als "Peer-to-Peer Digitaal Geld". Verkopers en gebruikers zijn verzekerd van lage transactiekosten en betrouwbare bevestigingen. De toekomst ziet er veelbelovend uit door onbeperkte groei, wereldwijde adoptie, vrije innovatie en decentrale ontwikkeling.
+      - |
+    faq:
+      - question: "Wat is Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Verschilt Bitcoin Cash van 'Bitcoin'?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

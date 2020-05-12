@@ -1,0 +1,307 @@
+fr:
+  language: Français
+  title:
+    index: "Bitcoin Cash - Monnaie virtuelle Pair-à-Pair"
+    graphics: "Bitcoin Cash - Logos / Images"
+    get-listed: "Demander à être listé"
+  meta:
+    index:
+      description: |
+        Bitcoin Cash apporte une monnaie saine au monde. Commerçants et utilisateurs bénéficient de frais infimes et de confirmations sûrs. L'avenir brille avec une croissance libre, une adoption mondiale, des innovations sans limites, et un développement décentralisé.
+      twitter:
+        title: "Bitcoin Cash - Monnaie virtuelle Pair-à-Pair"
+        description: |
+          Bitcoin Cash apporte une monnaie saine au monde. Commerçants et utilisateurs bénéficient de frais infimes et de confirmations sûrs. L'avenir brille avec une croissance libre, une adoption mondiale, des innovations sans limites, et un développement décentralisé.
+      og:
+        title: "Bitcoin Cash - Monnaie virtuelle Pair-à-Pair"
+        description: |
+          Bitcoin Cash apporte une monnaie saine au monde. Commerçants et utilisateurs bénéficient de frais infimes et de confirmations sûrs. L'avenir brille avec une croissance libre, une adoption mondiale, des innovations sans limites, et un développement décentralisé.
+    graphics:
+      description: |
+        Un pack de logos et images Bitcoin Cash.
+      twitter:
+        title: "Bitcoin Cash - Logos / Images"
+        description: |
+      og:
+        title: "Bitcoin Cash - Logos / Images"
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: "Télécharger le pack"
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "À propos"
+    features: "Fonctionnalités"
+    nodes: "Nœuds"
+    wallets: "Portefeuilles"
+    community: "Communauté"
+    services: "Services"
+    projects: "Projets"
+    exchanges: "Plateformes d'échange"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Monnaie virtuelle Pair-à-Pair"
+    loading: "Chargement..."
+  features:
+    - title: "Rapide"
+      description: "Envoyé en quelques secondes. Confirmé en quelques minutes."
+    - title: "Fiable"
+      description: "Un réseau qui fonctionne sans congestion."
+    - title: "Frais infimes"
+      description: "Envoyez de l'argent partout dans le monde pour quelques centimes."
+    - title: "Simple"
+      description: "Simple à utiliser. Sans difficulté."
+    - title: "Stable"
+      description: "Un système de paiement prouvé comme étant une valeur refuge."
+    - title: "Securisé"
+      description: "La chaine de blocs la plus robuste."
+  headings:
+    about: "La meilleure monnaie du Monde"
+    developers: "Commencer"
+    exchanges: "Plateformes d'échange"
+    faq: "Foire Aux Questions"
+    news: "News"
+    nodes: "Nœuds"
+    projects: "Projets"
+    services: "Services"
+    wallets: "Portefeuilles"
+    listingrequest: "Demander à être listé"
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash apporte une monnaie saine au monde. Commerçants et utilisateurs bénéficient de frais infimes et de confirmations sûrs. L'avenir brille avec une croissance libre, une adoption mondiale, des innovations sans limites, et un développement décentralisé.
+      - |
+    faq:
+      - question: "Qu'est ce que Bitcoin Cash ?"
+        answer:
+          - |
+      - question: "Bitcoin Cash est-il différent de 'Bitcoin' ?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

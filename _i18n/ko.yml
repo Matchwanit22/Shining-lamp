@@ -1,0 +1,306 @@
+ko:
+  language: 한국어
+  title:
+    index: "비트코인캐시 - 피어-투-피어 전자 현금"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        비트코인캐시는 세계에 건전한 화폐를 가능케합니다. 상인들과 사용자들은 낮은 수수료와 신뢰있는 승인의 권한이 주어집니다. 미래는 제한없는 성장, 세계적인 채택, 허가불필의 혁신, 탈중앙화된 개발로 밝게 빛납니다.
+      twitter:
+        title: "비트코인캐시 - 피어-투-피어 전자 현금"
+        description: |
+          비트코인캐시는 세계에 건전한 화폐를 가능케합니다. 상인들과 사용자들은 낮은 수수료와 신뢰있는 승인의 권한이 주어집니다. 미래는 제한없는 성장, 세계적인 채택, 허가불필의 혁신, 탈중앙화된 개발로 밝게 빛납니다.
+      og:
+        title: "비트코인캐시 - 피어-투-피어 전자 현금"
+        description: |
+          비트코인캐시는 세계에 건전한 화폐를 가능케합니다. 상인들과 사용자들은 낮은 수수료와 신뢰있는 승인의 권한이 주어집니다. 미래는 제한없는 성장, 세계적인 채택, 허가불필의 혁신, 탈중앙화된 개발로 밝게 빛납니다.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "로고"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "관하여"
+    features: "기능"
+    nodes: "노드"
+    wallets: "지갑"
+    community: "커뮤니티"
+    services: "서비스"
+    projects: "프로젝트"
+    exchanges: "거래소"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "자주묻는문답"
+  layout:
+    bitcoin_cash: "비트코인캐시"
+    lead: "피어-투-피어 전자 현금"
+    loading: "불러오는중..."
+  features:
+    - title: "신속성"
+      description: "수초내의 거래. 수분내의 승인."
+    - title: "신뢰성"
+      description: "정체없이 구동하는 네트워크."
+    - title: "낮은 수수료"
+      description: "낮은 비용으로 세계에 송금."
+    - title: "간결성"
+      description: "사용이 쉽다. 번거로움이 없음."
+    - title: "안정성"
+      description: "가치의 저장이 입증된 결제시스템."
+    - title: "안전성"
+      description: "세상에서 가장 견고한 블록체인 기술."
+  headings:
+    about: "세계 최고의 화폐"
+    developers: ""
+    exchanges: "거래소"
+    faq: "자주묻는문답"
+    news: ""
+    nodes: "노드"
+    projects: "프로젝트"
+    services: "서비스"
+    wallets: "지갑"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        "피어-투-피어 전자 현금" 이라는 비트코인의 원래의 목적에 부합하는, 비트코인캐시는 세계에 건전한 화폐를 가능케합니다. 상인들과 사용자들은 낮은 수수료와 신뢰있는 승인의 권한이 주어집니다. 미래는 무제한성장, 세계적 채택, 허가없는 혁신, 탈중앙화된 개발로 밝게 빛납니다.
+      - |
+    faq:
+      - question: "비트코인캐시는 무엇입니까?"
+        answer:
+          - |
+      - question: "비트코인캐시는 '비트코인'과 다릅니까?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

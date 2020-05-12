@@ -1,0 +1,306 @@
+sk:
+  language: Slovenčina
+  title:
+    index: "Bitcoin Cash - Peer-to-Peer Digitálna Mena"
+    graphics: "Bitcoin Cash - Logos / Graphics"
+    get-listed: "Submit a listing request"
+  meta:
+    index:
+      description: |
+        Bitcoin Cash prináša svetu skvelú menu. Obchodníkom a uživateľom Bitcoin Cash ponúka nízke transakčné poplatky a spolahlivé overenie transakcií. Čaká nás žiarivá budúcnosť neobmedzeného rastu, globálnej adopcie, neobmedzenej inovácie a decentralizovaného vývoja.
+      twitter:
+        title: "Bitcoin Cash - Peer-to-Peer Digitálna Mena"
+        description: |
+          Bitcoin Cash prináša svetu skvelú menu. Obchodníkom a uživateľom Bitcoin Cash ponúka nízke transakčné poplatky a spolahlivé overenie transakcií. Čaká nás žiarivá budúcnosť neobmedzeného rastu, globálnej adopcie, neobmedzenej inovácie a decentralizovaného vývoja.
+      og:
+        title: "Bitcoin Cash - Peer-to-Peer Digitálna Mena"
+        description: |
+          Bitcoin Cash prináša svetu skvelú menu. Obchodníkom a uživateľom Bitcoin Cash ponúka nízke transakčné poplatky a spolahlivé overenie transakcií. Čaká nás žiarivá budúcnosť neobmedzeného rastu, globálnej adopcie, neobmedzenej inovácie a decentralizovaného vývoja.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "2"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Informácie"
+    features: "Vlastnosti"
+    nodes: "Uzly"
+    wallets: "Peňaženky"
+    community: "Komunita"
+    services: "Služby"
+    projects: "Projekty"
+    exchanges: "Burzy"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Peer-to-Peer Digitálna Mena"
+    loading: "Nahrávanie..."
+  features:
+    - title: "Rýchla"
+      description: "Odosielajte v sekunde. Buďte potvrdení v minútach."
+    - title: "Spolahlivá"
+      description: "Sieť v ktorej niesú zápchy ani preťaženie."
+    - title: "Lacná"
+      description: "Posielajte peniaze do celého sveta za drobné."
+    - title: "Jednoduchá"
+      description: "Ľahké používanie. Žiadne trápenie."
+    - title: "Stabilná"
+      description: "Mena s osvedčenou hodnotou."
+    - title: "Bezpečná"
+      description: "Nejrobustnejší blockchain na svete."
+  headings:
+    about: "Nejlepšie peniaze na svete"
+    developers: ""
+    exchanges: "Burzy a Zmenárne"
+    faq: "Často položené otázky"
+    news: ""
+    nodes: "Uzly"
+    projects: "Projekty"
+    services: "Služby"
+    wallets: "Peňaženky"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Obchodníkom a uživateľom Bitcoin Cash ponúka nízke transakčné poplatky a spolahlivé overenie transakcií. Čaká nás žiarivá budúcnosť neobmedzeného rastu, globálnej adopcie, neobmedzenej inovácie a decentralizovaného vývoja.
+      - |
+    faq:
+      - question: "Čo je Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Líši sa Bitcoin Cash od klasického Bitcoinu?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

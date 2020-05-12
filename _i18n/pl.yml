@@ -1,0 +1,306 @@
+pl:
+  language: Język Polski
+  title:
+    index: "Bitcoin Cash - to elektroniczna waluta peer-to-peer"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash to twarda waluta, cechująca się znikomymi opłatami. Przyszłość jawi się w jasnych barwach co do wzrostu wartości, globalalnej adopcja, niezależości oraz rozwoju.
+      twitter:
+        title: "Bitcoin Cash - Elektroniczna waluta peer-to-peer"
+        description: |
+          Bitcoin Cash to twarda waluta, cechująca się znikomymi opłatami. Przyszłość jawi się w jasnych barwach co do wzrostu wartości, globalalnej adopcja, niezależości oraz rozwoju.
+      og:
+        title: "Bitcoin Cash - Elektroniczna waluta peer-to-peer"
+        description: |
+          Bitcoin Cash to twarda waluta, cechująca się znikomymi opłatami. Przyszłość jawi się w jasnych barwach co do wzrostu wartości, globalalnej adopcja, niezależości oraz rozwoju.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Opis"
+    features: "Co jest nowego"
+    nodes: "Węzły sieci"
+    wallets: "Portfele"
+    community: "Społeczność"
+    services: "Usługi"
+    projects: "Projekty"
+    exchanges: "Giełdy"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Elektroniczna waluta typu peer-to-peer"
+    loading: "Wczytywanie..."
+  features:
+    - title: "Szybki"
+      description: "Transakcje w sekundę. Potwierdzenia w ciągu minut."
+    - title: "Niezawodny"
+      description: "Sieć która pracuje bez przestojów."
+    - title: "O znikomych opłatach"
+      description: "Możesz wysyłać pieniądze globalnie za dosłownie grosik. Niezależnie od kwoty."
+    - title: "Prosty"
+      description: "Łatwy w użyciu i bezproblemowy."
+    - title: "Stabilny i pewny"
+      description: "System płatności, który sprawdzi się też do gromadzenia oszczędności."
+    - title: "Bezpieczny"
+      description: "Wykorzystuje najbezpieczniejszą na świecie technologię blockchain."
+  headings:
+    about: "Najlepsza waluta na świecie"
+    developers: ""
+    exchanges: "Giełdy"
+    faq: "Często zadawane pytania"
+    news: ""
+    nodes: "Węzły"
+    projects: "Projekty"
+    services: "Usługi"
+    wallets: "Portfele"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash wypełnia oryginalną wizję Bitcoin'a jako elektroniczna waluta peer-to-peer - tj. "elektroniczna gotówka". Dzięki niej handlowcy i klienci mogą dokonywać transakcji za dosłownie grosik - niezależnie od kwoty. Przyszłość rysuje się w świetlanych barwach dzięki globalnej adopcji, rosnącej wartości waluty, nieograniczonemu i zdecentralizowanemu rozwojowi.
+      - |
+    faq:
+      - question: "Co to jest Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Czy Bitcoin Cash różni się od 'Bitcoina' klasycznego?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

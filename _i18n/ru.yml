@@ -1,0 +1,306 @@
+ru:
+  language: Русский
+  title:
+    index: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+      twitter:
+        title: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+        description: |
+          Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+      og:
+        title: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+        description: |
+          Bitcoin Cash предоставляет миру прочную валюту. Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "лого"
+    dropdown_md_width: "2"
+    dropdown_sm_width: "3"
+  sections:
+    about: "О"
+    features: "Функции"
+    nodes: "Узлы"
+    wallets: "Кошельки"
+    community: "Сообщество"
+    services: "Услуги"
+    projects: "Проекты"
+    exchanges: "Биржи"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "ЧЗВ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Bitcoin Cash - Пиринговая Цифровая Валюта"
+    loading: "Загружается..."
+  features:
+    - title: "Быстро"
+      description: "Перечисление за секунды. Подтверждение в считанные минуты."
+    - title: "Надежно"
+      description: "Сеть, которая работает без перегрузок."
+    - title: "Низкая комиссия"
+      description: "Отправлять деньги по всему миру за гроши."
+    - title: "Просто"
+      description: "Простота в использовании. Никаких сложностей."
+    - title: "Стабильно"
+      description: "Платежная система, которая является проверенным средством сбережения."
+    - title: "Безопасно"
+      description: "Самая прочная в мире технология блокчейн."
+  headings:
+    about: "Лучшая Валюта в Мире"
+    developers: ""
+    exchanges: "Биржи"
+    faq: "Часто Задаваемые Вопросы"
+    news: ""
+    nodes: "Узлы"
+    projects: "Проекты"
+    services: "Услуги"
+    wallets: "Кошельки"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash предоставляет миру прочную валюту, выполняя изначальное предназначение Bitcoin как "Пиринговая Цифровая Валюта". Предприниматели и пользователи извлекают низкие комиссии и надежные подтверждения. Будущее за неограниченным ростом, глобальным признанием, бесконфликтными инновациями и децентрализованой разработкой.
+      - |
+    faq:
+      - question: "Что такое Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Отличается ли Bitcoin Cash от 'Bitcoin'?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |

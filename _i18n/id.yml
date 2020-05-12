@@ -1,0 +1,306 @@
+id:
+  language: Bahasa Indonesia
+  title:
+    index: "Bitcoin Cash - Mata Uang P2P Elektronik"
+    graphics: ""
+    get-listed: ""
+  meta:
+    index:
+      description: |
+        Bitcoin Cash adalah mata uang P2P yang mendunia. Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
+      twitter:
+        title: "Bitcoin Cash - Mata Uang P2P Elektronik"
+        description: |
+          Bitcoin Cash adalah mata uang P2P yang mendunia. Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
+      og:
+        title: "Bitcoin Cash - Mata Uang P2P Elektronik"
+        description: |
+          Bitcoin Cash adalah mata uang P2P yang mendunia. Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
+    graphics:
+      description: |
+      twitter:
+        title: ""
+        description: |
+      og:
+        title: ""
+        description: |
+  graphics:
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
+    sections:
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
+    types:
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
+    merchant:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    donation:
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
+    identity:
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
+  misc:
+    logo: "logo"
+    dropdown_md_width: "3"
+    dropdown_sm_width: "3"
+  sections:
+    about: "Tentang Bitcoin Cash"
+    features: "Fitur"
+    nodes: "Node"
+    wallets: "Dompet"
+    community: "Komunitas"
+    services: "Servis"
+    projects: "Projek"
+    exchanges: "Tempat Penukaran Uang"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
+    faq: "FAQ"
+  layout:
+    bitcoin_cash: "Bitcoin Cash"
+    lead: "Mata Uang P2P Elektronik"
+    loading: "Loading..."
+  features:
+    - title: "Cepat"
+      description: "Melakukan transaksi dalam beberapa detik. Mendapat konfirmasi dalam beberapa menit."
+    - title: "Terjamin"
+      description: "Berjalan dalam jaringan tanpa kemacetan."
+    - title: "Biaya Rendah"
+      description: "Kirim uang ke seluruh dunia dengan beberapa sen."
+    - title: "Simpel"
+      description: "Gampang digunakan dan diadopsi."
+    - title: "Stabil"
+      description: "Cara pembayaran dengan nilai yang terjamin."
+    - title: "Aman"
+      description: "Didukung dengan teknologi Blockchain paling kuat di dunia."
+  headings:
+    about: "Mata Uang terbaik di dunia"
+    developers: ""
+    exchanges: "Tempat Penukaran Uang"
+    faq: "Frequently Asked Questions (FAQ)"
+    news: ""
+    nodes: "Node"
+    projects: "Projek"
+    services: "Servis"
+    wallets: "Dompet"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
+  content:
+    about:
+      - |
+        Bitcoin Cash adalah mata uang mendunia terjamin yang berasal dari visi awal Bitcoin untuk menjadi "Mata Uang Elektronik P2P". Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
+      - |
+    faq:
+      - question: "Apa itu Bitcoin Cash?"
+        answer:
+          - |
+      - question: "Apakah Bitcoin Cash berbeda dengan 'Bitcoin'?"
+        answer:
+          - |
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |
