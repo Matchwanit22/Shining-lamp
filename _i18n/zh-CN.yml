@@ -1,0 +1,579 @@
+language: Chinese
+lang: zh_CN
+title:
+  index: "比特币现金 — 点对点数字现金"
+  graphics: "标识 / 图形 — 比特币现金"
+  get-listed: "提交列表请求 — 比特币现金"
+  gettingstarted: "开始 — 比特币现金"
+  starthere: "点击这里开始 — 比特币现金"
+  wallets: "下载钱包 — 比特币现金"
+  buyorearn: "购买或赚BCH — 比特币现金"
+  spendbch: "使用BCH支付 — 比特币现金"
+  acceptbch: "接受BCH — 比特币现金"
+  faq: "常见问题 — 比特币现金"
+  nodes: "节点 — 比特币现金"
+  services: "服务 — 比特币现金"
+  projects: "项目 — 比特币现金"
+  exchanges: "交易所 — 比特币现金"
+  developers: "开发人员门户 — 比特币现金"
+  workgroups: "工作组 — 比特币现金"
+  tools: "工具 — 比特币现金"
+  tech: "技术 — 比特币现金"
+  specs: "规范 — 比特币现金"
+  learn: "了解 — 比特币现金"
+  roadmap: "发展路线——比特币现金"
+  404: "404没找到页面 — 比特币现金"
+meta:
+  index:
+    description: |
+      比特币现金为全世界带来一种健全的货币，给商家和用户带来一种收费低廉又可靠踏实的收付方式。它无可限量的增长潜力、全球性应用、无需许可的创新收付方式、以及去中心化开发，都注定它前景光明。
+    twitter:
+      title: "比特币现金 — 点对点数字现金"
+      description: |
+        比特币现金为全世界带来一种健全的货币，给商家和用户带来一种收费低廉又可靠踏实的收付方式。它无可限量的增长潜力、全球性应用、无需许可的创新收付方式、以及去中心化开发，都注定它前景光明。
+    og:
+      title: "比特币现金 — 点对点数字现金"
+      description: |
+        比特币现金为全世界带来一种健全的货币，给商家和用户带来一种收费低廉又可靠踏实的收付方式。它无可限量的增长潜力、全球性应用、无需许可的创新收付方式、以及去中心化开发，都注定它前景光明。
+  graphics:
+    description: |
+      比特币现金的标识和图形系列。
+    twitter:
+      title: "比特币现金 — 标识 / 图形"
+      description: |
+        比特币现金的标识和图形系列。
+    og:
+      title: "比特币现金 — 标识 / 图形"
+      description: |
+        比特币现金的标识和图形系列。
+graphics:
+  title: "促销图片"
+  description: "这些比特币现金标识与品牌资产可以用于网上服务的展示、零售店、发布会或其他促销活动。"
+  logos: "标识"
+  download_png_svg: "下载PNG格式与SVG格式的比特币现金标识"
+  download_all: "全部下载"
+  small: "小标识（PNG）"
+  medium: "中型标识（PNG）"
+  large: "大型标识（PNG）"
+  full: "完整（PNG）"
+  vector: "向量（SVG）"
+  sections:
+    donations: "捐款"
+    home: "首页"
+    logos: "标识"
+    merchant: "商户"
+    identity: "识别"
+  types:
+    primary: "主要的BCH标识"
+    white: "白字BCH标识"
+    mark: "BCH标识"
+    horizontal_primary: "主要的BCH水平标识"
+    horizontal_white: "水平白字BCH标识"
+    wallets_exchanges: "钱包 / 交易所所用的BCH标识"
+  merchant:
+    title: "商户按钮"
+    description: "摆出标识，让顾客知道你接受比特币现金付款"
+    primary: "这里主要接受比特币现金付款"
+    orange: "这里接受比特币现金付款（橙色）"
+  donation:
+    title: "捐款按钮"
+    description: "推动商户接受比特币现金捐款方式。"
+    primary: "主要接受比特币现金捐款"
+    orange: "接受比特币现金捐款（橙色）"
+  identity:
+    title: "视觉识别"
+    description: "比特币现金字体、颜色等等。"
+    font: "Ubuntu Bold"
+    font_italic: "Ubuntu Bold Italic"
+    download: "下载字体"
+    orange: "比特币现金（橙色）"
+    grey: "比特币现金（灰色）"
+    white: "比特币现金（白色）"
+    hex: "Hex"
+    rgb: "RGB"
+    cmyk: "CMYK"
+    pantone: "Pantone"
+developers:
+  title: "用比特币现金开发令人称奇的应用程序"
+  description: "为开发人员提供的资源，开发人员提供的资源。"
+  sections:
+    home: "首页"
+    getStarted: "开始"
+    news: "新闻"
+  getStarted:
+    tech:
+      title: "技术"
+      description: "人人可用的开源技术"
+    learn:
+      title: "了解"
+      description: "了解比特币现金的开发"
+    tools:
+      title: "工具"
+      description: "实现目的所需的一切"
+    workgroups:
+      title: "工作组"
+      description: "社区协调"
+    specs:
+      title: "规范"
+      description: "比特币现金的词汇和相关API"
+workgroups:
+  title: "比特币现金工作组"
+  description: "协同工作的技术社区"
+  sections:
+    workgroups: "工作组"
+    home: "首页"
+  tutorials:
+    title: "教程"
+    description: "从基本到专业级逐步引导应用程序"
+  workgroups:
+    description: "下面是常见的比特币现金开发工作组列表。每个工作组都应该聚焦一个特定的主题。工作组可以存续某一段时间，也可以为持续的利益而存续。"
+    sections:
+      communication: "沟通"
+      officers: "主管"
+      parties: "相关各方"
+      summaries: "摘要"
+    wg-daa:
+      title: "难度调整算法"
+      description: "负责研究和讨论最新的难度调整技术，并应用于比特币现金的工作组。"
+    wg-blocksize:
+      title: "区块大小增加"
+      description: "这次会议旨在讨论有关区块大小增加的各种议题。"
+    wg-fungibility:
+      title: "互换性"
+      description: "一个讨论更好地保护比特币现金隐私问题的工作组。"
+    wg-hardforks:
+      title: "定期硬分叉机制"
+      description: "有关比特币现金节点执行机制如何定期实施硬分叉的规范定义。"
+    wg-malfix:
+      title: "可扩展性修复"
+      description: "交易可扩展性修复，以应用比特币现金区块链之外的其他各种技术。"
+    wg-opcodes:
+      title: "运算码"
+      description: "提议重新启用各种运算码，制定定义明确的行为规范，推出各种运算码。"
+    wg-protocol-spec:
+      title: "形式协议规范"
+      description: "本工作组旨在协调比特币现金协议形式定义文件的开发、审阅与验收。刚开始时设想将范围限定在硬共识规则，但后来将软规则也纳入其中。"
+    wg-qa:
+      title: "质量保证"
+      description: "定义一系列可以对照进行节点实现认证的质量标准。"
+    wg-sidechains:
+      title: "侧链"
+      description: "有关比特币现金侧链及普通事项的讨论。"
+    wg-tokens:
+      title: "代币"
+      description: "有关比特币现金代币的讨论。"
+    wg-utxocommit-sync:
+      title: "UTXO承诺与同步"
+      description: "定义一系列可以对照进行节点实现认证的质量标准。"
+    wg-ux:
+      title: "用户体验"
+      description: "规划和协调推进比特币现金钱包。"
+    wg-watercooler:
+      title: "水冷系统"
+      description: "有关比特币现金侧链及普通事项的讨论。"
+learn:
+  title: "了解比特币现金的开发"
+  description: "掌握新的技能，创造令人称奇的事物"
+  sections:
+    home: "首页"
+    tutorials: "教程"
+  tutorials:
+    title: "教程"
+    description: "从基本到专业级逐步引导应用程序"
+specs:
+  title: "比特币现金开发人员门户"
+  description: "下面是常见的比特币现金开发工作组列表。每个工作组都应该聚焦一个特定的主题。工作组可以存续某一段时间，也可以为持续的利益而存续。"
+  sections:
+    home: "首页"
+    workgroups: "工作组"
+    specifications: "规范"
+    ecosystem: "生态系统"
+  specifications:
+    title: "比特币现金规范"
+    description: "以下是即将推出和已经推出的比特币现金升级列表。"
+  ecosystem:
+    title: "比特币现金生态系统"
+    description: ""
+tech:
+  title: "人人可用的开源技术"
+  description: "金钱事关芸芸众生。比特币现金是史上最好的货币。"
+  sections:
+    home: "首页"
+    foundation: "基石"
+    emerging: "新兴"
+  foundation:
+    title: "基石"
+    description: "踏上行程所需的知识"
+  emerging:
+    title: "新兴"
+    description: "不断变化和发展的比特币现金世界"
+tools:
+  title: "工具"
+  description: "希望用比特币现金改变世界？很好，这里有实现梦想所需的工具。"
+  sections:
+    home: "首页"
+    javascript: "Javascript"
+  javascript:
+    title: "Javascript"
+misc:
+  logo: "标识"
+  dropdown_md_width: "3"
+  dropdown_sm_width: "3"
+sections:
+  home: "首页"
+  about: "关于"
+  features: "功能"
+  nodes: "节点"
+  wallets: "钱包"
+  community: "社区"
+  services: "服务"
+  projects: "项目"
+  exchanges: "交易所"
+  graphics: "标识"
+  developers: "开发人员门户"
+  learn: "了解"
+  specs: "规范文档"
+  tech: "技术"
+  tools: "工具"
+  workgroups: "工作组"
+  faq: "关于"
+  starthere: "点击这里开始"
+layout:
+  bitcoin_cash: "比特币现金"
+  lead: "点对点数字现金"
+  leadsubtitle: "开启低收费微型交易、大型业务交易及无授权支付的新经济时代。"
+  herobutton_one: "开始"
+  herobutton_two: "下载钱包"
+  loading: "载入中..."
+features:
+  - title: "快速"
+    description: "秒级交易，几分钟内完成确认。"
+  - title: "可靠"
+    description: "运行顺畅的网络。"
+  - title: "低手续费"
+    description: "将钱转至世界各地，只需几分钱费用。"
+  - title: "简单"
+    description: "使用方便，没有麻烦。"
+  - title: "稳定"
+    description: "一种支付系统，也是经过实践检验的保值方式。"
+  - title: "安全"
+    description: "世界上最强大的区块链技术。"
+headings:
+  about: "世界上最健全的货币"
+  community: "加入比特币现金社区"
+  steps: "开始"
+  developers: "开始"
+  exchanges: "交易所"
+  microeconomy: "微观经济"
+  faq: "常见问题"
+  news: "新闻"
+  nodes: "节点"
+  projects: "项目"
+  services: "服务"
+  wallets: "钱包"
+  featured-wallets: "特色钱包"
+  donate: "为比特币现金（BCH）的开发捐款"
+  whitepaper: "阅读白皮书"
+  listingrequest: "提交列表请求"
+  listingcriteria: "刊登标准"
+  getlisted: "刊登"
+  error404: "错误404"
+  benefits: "商户的福利"
+  why: "为什么使用比特币现金？"
+  history: "比特币现金的历史沿革"
+  development: "分散发展"
+  roadmap: "比特币现金路线图"
+networkupgrade:
+  reminder: "提醒"
+  date: "2018年11月15日"
+  title: "规划中的网络升级"
+  description: "比特币现金BCH网络将根据<a href='roadmap.html'>路线图</a>进行协议升级。 使用比特币现金网络的企业和个人应及时检查，以确保其软件与升级兼容。"
+  compatible: "兼容实现"
+  additional: "其他信息"
+  testnet: "测试网信息"
+  hfspec: "11月份的硬分叉规范"
+  spec: "OP_CHECKDATASIG与OP_CHECKDATASIGVERIFY的规范"
+  close: "关闭"
+  upgradecomplete: "升級完成"
+  completedescription: "比特币现金网络预定的升级已完成。"
+  specification: "更新要求"
+  date-2019-05-15: "2019年5月15日"
+  date-2019-11-15: "2019年11月15日"
+  date-2020-05-15: "2020年5月15日"
+  date-2020-11-15: "2020年11月15日"
+  date-2021-05-15: "2021年5月15日"
+whitepaper:
+  description: '初版白皮书是全球首个数字加密货币匿名创造者中本聪（Satoshi Nakamoto）在2008年10月31日发表的。比特币白皮书名为“比特币：一种点对点电子现金系统”（Bitcoin: A Peer-to-Peer Electronic Cash System）。比特币现金旨在延续这种为全球创造一种健全货币的愿景。'
+donate:
+  button: "现在捐款"
+  description: '比特币现金的开发者需要您的支持，从而建立必要的软件基础设施，以保持比特币现金为世界服务的竞争优势。 最基本的目标是到本季度末，募到1600 枚BCH。 这将为实现比特币现金基础设施发展，提供可持续的、长期资金目标的良好开端。'
+error404:
+  subheading: 您要找的页面不存在。
+  button: 转到首页
+content:
+  about:
+    - |
+      比特币现金为全世界带来一种健全的货币，实现比特币作为一种“点对点电子现金”的初衷。给商家和用户带来一种收费低廉又可靠踏实的收付方式。它无可限量的增长潜力、全球性应用、无需许可的创新收付方式、以及去中心化开发，都注定它前景光明。
+    - |
+      所有截至第478558块的比特币持有者，也是比特币现金的拥有者。欢迎各位加入比特币现金社区，与我们一起推动打造一种全球可用的健全货币。
+  faq:
+    - question: "何为比特币现金？"
+      answer:
+        - |
+          比特币现金是一种点对点电子现金系统。它是一种无需授权的去中心化数字加密货币，无需受信任的第三方与中央银行。
+    - question: "比特币现金与“比特币”不一样吗？ "
+      answer:
+        - |
+          2017年，比特币项目及其社区一分为二。用各自的交易代码BTC与BCH称呼对方，这也许是最没有争议的方式。比特币现金一般是用BCH交易代码代表的，被支持者视为一种点对点数字货币比特币项目的合法延续
+  why:
+      - benefit: "向全球各地汇款，几乎是免费的"
+        descrip:
+          - |
+            有了比特币现金，您可以每年365天，每天24小时向全球各地的任何人汇款。与互联网一样，比特币现金网络全年无休。交易金额不分大小，再也不需要任何人授权或批准了。
+      - benefit: "您就是自己的银行，完全掌控自己的钱"
+        descrip:
+          - |
+            塞浦路斯（差不多还有希腊）发生过账户持有人资金被扣留的事件（“保释”），表明银行存款的安危完全系于政治领袖的决定。即使是最理想的状况，银行也可能出错，扣留资金，冻结账户，或者让您无法接触自己的资金。
+          - |
+            银行也可能决定阻止您的交易，向您收费，或未经事先警告而关闭您的账户。比特币现金让您完全掌控自己的资金，自己当家做主，您可以在全球的任何角落查看自己的资金。
+      - benefit: "一种有明确固定供应源的稀缺数字货币"
+        descrip:
+          - |
+            比特币现金协议保证绝不会有超过2100万的比特币存在。政府持续印刷货币，无休止地超额供应，让每个人的存款贬值。比特币现金是定量供应的，因此是一种健全的货币。
+      - benefit: "提升您的私密性和操作匿名性"
+        descrip:
+          - |
+            比特币现金比银行转账与信用卡付款之类的传统支付方式更加私密，匿名性也更好，因为一般无法知道是谁控制了比特币地址。
+          - |
+            基于使用用途不同，比特币现金对应着不同程度的隐私。在把比特币现金作为私密使用前，对其仔细研究是很重要的。
+      - benefit: "独享各种优惠"
+        descrip:
+          - |
+            许多商户向支付比特币现金的顾客提供各种优惠，因为无需缴纳信用卡手续费了，从而促进了这种新型支付方式的普及。
+      - benefit: "支持全球范围内的资金自由流动"
+        descrip:
+          - |
+            比特币现金是一种无需授权的开放式网络。让您与其他用户交互，而不受任何干扰。它是一种去中心化，自愿性非侵略性网络。随着应用的普及，曾经的权力结构受到侵蚀，新想法则层出不穷。也许会促成人类已知的最伟大的和平革命。
+  benefits:
+      - benefit: "超低费用"
+        descrip:
+          - |
+            一笔比特币现金交易的网络费用普遍少于一美分。如果你通过商户处理器将比特币现金换成诸如美元之类的法币，手续费甚至比使用信用卡的费用还低很多。
+      - benefit: "不扣费"
+        descrip:
+          - |
+            与信用卡不一样，比特币现金交易中绝不会有任何自动失效、退账、扣费或其他没有料到的费用。系统内置一个反欺诈防护机制，商户不承担相关费用。
+      - benefit: "新顾客"
+        descrip:
+          - |
+            越来越多的顾客选择比特币现金为首选的支付方式。他们青睐那些提供这种付款方式的商家，到处寻找这种商家。
+      - benefit: "免费营销与宣传"
+        descrip:
+          - |
+            接受比特币现金付款的商户可以免费列入相应的网站和应用程序名册，招来更多顾客。它们还可以利用这种新的趋势，为自己的业务造势。
+  history:
+      - |
+        2008年10月，中本聪发表了名为<strong>“比特币：一种点对点电子现金系统”</strong>的著名白皮书。2009年，他发布了首款驱动比特币网络的比特币软件。之后几年里系统一直运行平稳，交易收费低廉，快捷可靠。
+      - |
+        很不幸，在2016至2017年间，比特币让人感觉越来越不靠谱又昂贵。原因在于比特币社区无法就增加网络容量达成共识。有些开发人员不理解也不同意Satoshi的计划。相反，他们希望让比特币成为一个结算层。
+      - |
+        到了2017年，受可用性问题的直接影响，比特币的统治地位分崩离析，市场占有率从95%跌至区区的40%。幸运的是，比特币社区的大多数成员 — 包括开发人员、投资者、用户和企业 — 依然相信比特币的最初愿景，即低收费、全世界所有人都可以用的点对点电子现金系统。
+      - |
+        2017年8月1日，我们提高了区块大小的上限，从而迈出了顺理成章的一步，比特币现金应运而生。任何人只要当时（第478558个区块）持有比特币就是比特币现金（BCH）的拥有者。网络容量现在高达32MB区块，还在持续研究实现后续大规模扩容。
+  development:
+      - |
+        有多个独立的开发人员群组提供软件实施服务，未来安全无虞。比特币现金抵制那些对协议开发的政治社会攻击。没有哪个群体或项目能够控制它。多种实现方式还提供一定的冗余，保证网络保持100%的正常运行时间。
+      - |
+        <a href="https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-ml" target="_blank">Bitcoin-ml邮件列表</a>可用作整个开发组决议一些需要协调的变化。建立<a href="https://github.com/bitcoincashorg/workgroups" target="_blank">工作组</a>则是为了协助开发者协调和寻求同行评审。对于那些希望对比特币现金协议进行更改的人，建议在早期寻求同行评审，并通过工作组与其他开发人员进行协作。
+  criteria:
+      - title: "你的项目是否使用了正确的名称代码？"
+        descrip:
+          - |
+            你的项目网站必须要明确比特币现金的名称代码是<strong>BCH</strong>。用错名称代码的项目将会被取消信息刊登资格。
+
+      - title: "你的项目是否使用了正确的名称？"
+        descrip:
+          - |
+            项目网站必须使用其全名来定义比特币现金。修改或附加“比特币现金”名称的项目，将被取消刊登资格。
+      - title: "你的钱包是否提供种子类型和助记词路径？"
+        descrip:
+          - |
+            比特币现金钱包应用必须包含种子类型和助记词路径。
+
+      - title: "你的项目是否明清晰地推广比特币现金？"
+        descrip:
+          - |
+            申请人的网站必须明确宣传比特币现金。添加最小化的支持并不能保证入选。
+      - title: "你的项目是否使用比特币现金logo?"
+        descrip:
+          - |
+            我们鼓励申请人使用我们<a href="graphics.html">图标</a>区域提供的比特币现金logo。品牌推广应与bitcoincash.org保持一致。虽然不是强制要求，但使用bitcoincash.org上提供的logo会增加您刊登的几率。
+      - title: "你的项目是否对客观对待事实？"
+        descrip:
+          - |
+            申请人网站必须保持客观。为达到特定目的而诋毁比特币现金的申请可能会导致被拒。
+      - title: "你的项目是否专业且用户友好？"
+        descrip:
+          - |
+            申请人网站必须看起来专业。对新用户而言，用户界面（UI）应该要简易。
+      - title: "你的项目是否受比特币现金社区的信任和审查"
+        descrip:
+          - |
+            申请人应通过Twitter，Telegram，Reddit或Slack与比特币现金社区联系。经社区内受信任成员审核的项目更有可能获得批准的申请。我们收到成千上万的申请，那些在线形象更强大的申请越有可能被审批。
+      - title: "工作组的自由裁量权"
+        descrip:
+          - |
+            我们将依循自己的判断，保留拒绝申请的权利。
+viewmore: "阅读更多内容"
+gettingstarted:
+  title: "开始"
+  subtitle: "何为点对点数字现金？"
+  excerpt: "简单地说，点对点（P2P）电子现金是无需受信的第三方，由一个人发送给另一个人的网上资金。正如中本聪在初版比特币白皮书中描述的，P2P现金采用数字签名作为部分解决方案。但如果依然需要由受信第三方来防止欺诈，比特币现金的主要优势也就荡然无存了。这使得P2P现金成为一种无需受信又安全的交易方式，也无需中介。"
+  description: "简单地说，点对点（P2P）电子现金是无需受信的第三方，由一个人发送给另一个人的网上资金。正如中本聪在初版比特币白皮书中描述的，P2P现金采用数字签名作为部分解决方案。但如果依然需要由受信第三方来防止欺诈，比特币现金的主要优势也就荡然无存了。这使得P2P现金成为一种无需受信又安全的交易方式，也无需中介。"
+  sidetitle: "了解比特币现金的方方面面"
+  shoponline: "线上购物"
+  shoponline_excerpt: "用比特币现金，在部分心仪的网上零售店购物。"
+  spendatrestaurants: "在餐馆消费"
+  spendatrestaurants_excerpt: "到接受比特币现金付款的餐馆或咖啡馆消费。"
+  shopinperson: "线下购物"
+  shopinperson_excerpt: "逛逛超过<span class='merchantCount'>192</span> 家接受比特币现金付款的实体店。"
+  maptitle: "用比特币现金线下购物消费"
+  mapcount: "列出的企业"
+downloadwallet:
+  title: "下载钱包"
+  subtitle: "比特币现金存放在哪里？"
+  excerpt: 比特币现金消费超简单，很容易上手。第一步是下载钱包，成为比特币经济圈的一员。大多数钱包都是免费下载的，也易于使用，主要功能有付款、收款、安全存放资金、交易查询等等。
+  description: 比特币现金消费超简单，很容易上手。第一步是下载钱包，成为比特币经济圈的一员。大多数钱包都是免费下载的，也易于使用，主要功能有付款、收款、安全存放资金、交易查询等等。
+  sidetitle: "该使用哪种钱包？"
+  mobilewallet: "移动钱包"
+  mobilewallet_excerpt: "移动钱包是存放和支付比特币现金的好办法。"
+  desktopwallet: "桌面钱包"
+  desktopwallet_excerpt: "尝试用桌面钱包，将比特币现金导入自己的业务。"
+  hardwarewallet: "硬件钱包"
+  hardwarewallet_excerpt: "将比特币现金存放在安全的硬件钱包里，这是长期存放现金的好办法。"
+  paperwallet: "纸质钱包"
+  paperwallet_excerpt: "将比特币现金存放在线下纸质钱包里，这是长期存放现金或馈赠亲友的好办法。"
+  featuredwallets: "特色钱包"
+  bitcoindotcom: "开始使用Bitcoin.com钱包，简单安全地发送接收比特币。这种钱包支持比特币现金（BCH）与比特币核心（BTC），让用户在两种不同的货币之间轻松转换。"
+  handcash: "而且，点对点比特币现金不仅仅是线下付款？没有地址，无需第三方。这种钱包基于比特币现金开发出相关产品的生态系统，实现了流程数字化。"
+  yenom: "Yenom是一款简单、初学者友好的、仅支持比特币现金的钱包。非常适合第一次使用比特币现金的家庭和朋友！这款钱包是收发比特币现金最便捷的方式。任何人皆可轻松试用Yenom。"
+  electron: "你的私钥是加密的，且永久保留在你本地计算机中。你的资金可以从一串助记词中恢复。Electron Cash采用了运行在比特币现金区块链上的服务，故此运行速度很快。你可以导出私钥并在其他比特币现金客户端使用。"
+buyorearn:
+  title: "购买或挣得比特币现金"
+  subtitle: "如何挣比特币现金？"
+  excerpt: 获得比特币现金的两种最简单的方法是购买或赚取。 购买是最常用、最便捷的方式，你只需要在比特币交易所注册并存入资金，即可转换为比特币现金。交易完成后，交易所将给你发送比特币现金。
+  firstparagraph: "获得比特币现金的两种最简单的方法是购买或赚取。 购买是最常用、最便捷的方式，你只需要在比特币交易所注册并存入资金，即可转换为比特币现金。交易完成后，交易所将向你发送比特币现金。另一种选择是通过工作赚取。例如，在工作平台上找一份以比特币现金支付的工作，或者可以创建你自己的服务（比如卖T恤）来赚取比特币现金。"
+  secondparagraphtitle: "本地哪里有比特币现金？"
+  secondparagraph: "许多城市都有一个场外（OTC）市场从事法定货币（例如美元、日元、欧元等等）与比特币现金的交易。或者考虑问问雇主，看看他们是否愿意站在未来货币市场的最前沿，用比特币现金支付部分或全部工资。有些大城市还有一些支持比特币现金存取业务的柜员机，轻松实现法定货币或比特币现金存取。问问离您最近的<a href='http://events.bitcoin.com/'>比特币现金社区</a>看看有没有其他方式，或者考虑到所在城市的餐厅<a href='../spend-bitcoin-cash'>用比特币现金</a>消费，在那里问问。"
+  thirdparagraphtitle: "能在线上购买比特币现金吗？"
+  thirdparagraph: "线上购买比特币现金是最常用的比特币现金接收方式。您可以通过买卖本地货币与数字加密货币的线上交易所进行银行转账，实现比特币现金交易。有些交易所甚至接受信用卡即时购买。与任何线上购物一样，您要自己研究，一定要有自己的钱包。我们不建议在交易所账户中存放任何比特币现金。一定要将比特币现金存放在您自己的，经过安全备份的钱包里。"
+  sidetitle: "哪里可以弄到比特币现金？"
+  buyexchange: "向交易所购买"
+  buyexchange_excerpt: "向受信第三方交易所支付法定货币，购买比特币现金"
+  usefaucet: "使用比特币现金水龙头"
+  usefaucet_excerpt: "通过受信的<a href='https://free.bitcoin.com'>比特币现金水龙头</a>免费接收少量比特币现金！"
+  buyapp: "应用程序内购买"
+  buyapp_excerpt: "用信用卡，向销售比特币现金的受信第三方应用程序购买比特币现金。"
+  earnonline: "线上赢得比特币现金"
+  earnonline_excerpt: "在<a href='https://honest.cash'>honest.cash</a>上制作热门内容。使用譬如<a href='http://memo.cash'>Memo.cash</a>，抗审查的社交媒体平台。"
+  buyatm: "从比特币现金ATM机上购买"
+  buyatm_excerpt: "全球许多城市都有支持比特币现金存取业务的专用柜员机。"
+  buyinperson: "线下购买"
+  buyinperson_excerpt: "在<a href='https://LocalBitcoinCash.org/'>LocalBitcoinCash.org</a>上联系销售比特币现金的本地卖家。"
+  acceptbch: "将比特币现金导入自己的业务"
+  acceptbch_excerpt: "将比特币现金作为付款方式添加到你的商店。 线上或线下均可出售物品赚取比特币现金。"
+  getpaid: "要求用比特币现金付款"
+  getpaid_excerpt: "询问雇主，看能不能部分或全部用比特币现金支付工资。"
+spendbch:
+  title: "使用比特币现金"
+  subtitle: "能用比特币现金买什么？"
+  excerpt: 比特币现金不只是一种投机货币。它的初衷是一种点对点电子货币，也就是说是要花出去的。使用比特币现金方便快捷，几乎是即时的，交易费都不到一分钱，成为全球最安全和广泛应用的电子货币。
+  description: 比特币现金不只是一种投机货币。它的初衷是一种点对点电子货币，也就是说是要花出去的。使用比特币现金方便快捷，几乎是即时的，交易费都不到一分钱，成为全球最安全和广泛应用的电子货币。
+  sidetitle: "哪里可以用比特币现金？"
+  shoponline: "线上购物"
+  shoponline_excerpt: "用比特币现金，在部分心仪的网上零售店购物。"
+  spendatrestaurants: "在餐馆消费"
+  spendatrestaurants_excerpt: "到接受比特币现金付款的餐馆或咖啡馆消费。"
+  shopinperson: "线下购物"
+  shopinperson_excerpt: "逛逛超过<span class='merchantCount'>192</span> 家接受比特币现金付款的实体店。"
+  maptitle: "用比特币现金线下购物消费"
+  mapcount: "列出的企业"
+acceptbch:
+  title: "接受比特币现金付款"
+  subtitle: "如何将比特币现金应用于我的业务？"
+  excerpt: 作为商户，您的主要目标之一是尽可能快速无缝地接受付款和处理付款，让顾客开心，也让自己轻松收款。比特币现金能够帮助您实现目标，因为它可以实现快速低成本的交易。随着全球的数字化转型，诸如比特币之类的电子货币成为线上线下零售付款方式。直接轻松接受比特币现金付款，或通过第三方供应商平台接受比特币现金付款，并将部分或全部销售额转换为本地法定货币。
+  description: 商家的主要目标之一是，尽可能快速、无缝地接收和处理付款，以使得消费者愉悦，同时商家自己无后顾之忧。比特币现金交易快速、费用低，是个不错的方案。随着世界的日益数字化，如比特币现金这样的电子货币正成为线上及零售实体店的首选支付方式。第三方供应商可轻松地使用其平台接收比特币现金。注册第三方商家解决方案的应用（如BitPay），你只需设置好帐户，收取比特币现金，使其（代指“第三方商家解决方案”）发送到你的比特币现金钱包，或转换为你当地的法币。大多数商店会将资金分为两种方式处理：转换一部分为法币，继续持有一部分数字货币。无论哪种方式，通过建立商家解决方案的应用，你可以立即开始接收比特币现金的支付，而无需担心其复杂性。
+  sidetitle: "如何接受比特币现金？"
+  acceptonline: "比特币现金支付网关"
+  acceptonline_excerpt: "从受信第三方支付网关，作为一种支付方式接受比特币现金付款。"
+  wordpress: "在Wordpress中启用比特币现金功能"
+  wordpress_excerpt: "接受比特币现金捐款作为内容创作的报酬，或者集成到启用了Wordpress的商务平台。"
+  pos: "销售点"
+  pos_excerpt: "在你的商店中尝试使用众多POS系统，来接收比特币现金。"
+  donations: "接受捐款或赏钱"
+  donations_excerpt: "非营利性组织在接受比特币现金捐款时享受超低费用。"
+roadmap:
+  intro:
+    home: 要成为应用程序开发和创新的坚实基础，比特币现金必须不断改进和竞争。通过合作，我们可以建立一个技术基础平台，使比特币现金成为世界上有史以来最好的货币。
+    btn: 查看发展路线
+    goal: 比特币现金的目标是成为世界上每个人都可以使用的可靠资金。 这是一项改变文明的技术，将大大提升人类的自由和繁荣程度。
+    expl: 本路线图旨在提供高级技术指导，并使不同的技术团队能够协力推动比特币现金的共同目标。 开发人员在实现这一目标的职责是，产出高质量的、专业程度高的软件，以满足其用户、矿工和商家的需求。 我们致力于持续的技术改进，以产出可靠的产品，为比特币现金的发展提供坚实基础。
+    design: 比特币现金的基本设计是合理的。 但是，这并不意味着它是完美的。 稳健的做法是，通过技术合理的设计和精心的工程实现，对系统逐步改进。 通过不断实现优化和协议升级，点对点数字现金的应用规模，将扩展至超出当前规模许多个数量级。
+    list-title: "必要的技术改进可分为三类："
+    list-1: "使比特币现金可以从约100 Tx / s扩展到超过5,000,000 Tx / s。必须进行协议改进，以便这一规模交易处理实现大规模并行化。"
+    list-2: 改善支付体验，确保其即时、可靠。 交易应在三秒钟内完成验证。
+    list-3: 使比特币现金可扩展。 可扩展的协议使未来的改进不那么具有破坏性，并为企业和开发人员提供了坚实的基础。
+    end: 要成为应用程序开发和创新的坚实基础，比特币现金必须不断改进和竞争。通过合作，我们可以建立一个技术基础平台，使比特币现金成为世界上有史以来最好的货币。
+  complete: 完成
+  underway: 进行中
+  planned: 计划的
+  roadmap: 路线图
+  scaling: 扩容性
+  usability: 可用性
+  extensibility: 扩展性
+  protocol_complete: 比特币现金协议完成
+  ctor: 交易排序
+  scal_block_proc: （可扩容的区块处理）
+  faster: 更快的区块传输
+  graphene: （石墨烯或其他）
+  merklix: Merklix元数据数
+  utxo: UTXO指派
+  pruning: （区块链缩减）
+  schnorr: Schnorr数字签名法
+  batched: （批量签名认证）
+  adaptive: 自适应区块大小
+  1TB: （市场推动增至1TB的区块）
+  scale: 人造规模
+  50tx: 100亿人每天50次的交易量
+  CashAddr: 比特币现金地址
+  easier: （对用户更加方便和安全）
+  Sighash: 签名哈希
+  hw: （硬件钱包安全性）
+  fee: 矿工费的改进
+  cheaper: （更便宜的交易）
+  pre: 预先共识
+  instant: （对商户实现的即时安全性）
+  fract: 部分聪
+  low: （费用永久低廉）
+  best: 最佳货币
+  secure_low: 3秒内确认——交易费永久低廉
+  basic: 基础操作码
+  223B: 在223字节中的OP_RETURN
+  social: （链上社交网络）
+  cds: OP_CHEAKDATASIG
+  oracles: （预言机和高级脚本）
+  more_basic: 更加基础的操作码
+  tx_format: 新的交易格式
+  compact: （更强大，更严密）
+  token: 通证经济
+  traded: 在区块链上交易的所有资产类型
+donations:
+  title: 支持经济繁荣
+  subtitle: 支持比特币现金技术的发展，可以推进经济繁荣。
+  goal: 我们的目标是在2019年8月1日前募集到1600 BCH。请帮助我们达到目标！
+  explanation: 比特币现金的开发者需要您的支持来建立和维护必要的基础设施，从而保持比特币现金的竞争力并为全球应用做好准备。 如果您对比特币现金未来的功能，安全性以及成功感兴趣，请考虑为致力于实现这一目标的开发团队做出贡献。
+  recipient: 您的捐款，100%将用于支持比特币现金的开发，用于实现可持续发展和创新，从而提高主网价值，支撑比特币现金价格的持续增长。
+  percentage: 目标达成的百分比%
+  total: 捐赠1600BCH的目标
+  total_tx: 已募捐
+  days_left: 剩余天数
