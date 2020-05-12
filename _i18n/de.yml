@@ -1,0 +1,309 @@
+﻿language: Deutsch Deutschland
+lang: de
+title:
+  index: "Bitcoin Cash - Eine elektronische Peer-to-Peer Währung"
+  graphics: "Bitcoin Cash - Logos / Grafik"
+  get-listed: ""
+meta:
+  index:
+    description: |
+      Bitcoin Cash bietet der gesamten Welt eine solide Währung. Der Nutzen für Händler oder Kunden sind zuverlässige Transaktionen mit geringen Transaktionskosten. Die Zukunft für Bitcoin Cash glänzt dank unlimitiertem Wachstum, globaler Akzeptanz, Innovation und dezentralisierter Entwicklung.
+    twitter:
+      title: "Bitcoin Cash - Eine elektronische Peer-to-Peer Währung"
+      description: |
+        Bitcoin Cash bietet der gesamten Welt eine solide Währung. Der Nutzen für Händler oder Kunden sind zuverlässige Transaktionen mit geringen Transaktionskosten. Die Zukunft für Bitcoin Cash glänzt dank unlimitiertem Wachstum, globaler Akzeptanz, Innovation und dezentralisierter Entwicklung.
+    og:
+      title: "Bitcoin Cash - Eine elektronische Peer-to-Peer Währung"
+      description: |
+        Bitcoin Cash bietet der gesamten Welt eine solide Währung. Der Nutzen für Händler oder Kunden sind zuverlässige Transaktionen mit geringen Transaktionskosten. Die Zukunft für Bitcoin Cash glänzt dank unlimitiertem Wachstum, globaler Akzeptanz, Innovation und dezentralisierter Entwicklung.
+  graphics:
+    description: |
+      Eine Sammlung von Logos und Grafik für Bitcoin Cash
+    twitter:
+      title: "Bitcoin Cash - Logos / Grafik"
+      description: |
+        Eine Sammlung von Logos und Grafik für Bitcoin Cash
+    og:
+      title: "Bitcoin Cash - Logos / Grafik"
+      description: |
+        Eine Sammlung von Logos und Grafik für Bitcoin Cash
+graphics:
+  title: "Werbegrafik"
+  description: ""
+  logos: "Logos"
+  download_png_svg: "Laden Sie Bitcoin Cash Logos in PNG und SVG herunter"
+  download_all: "Alles herunterladen"
+  small: "Klein (PNG)"
+  medium: "Mittel (PNG)"
+  large: "groß (PNG)"
+  full: "Volle Größe (PNG)"
+  vector: "Vektor (SVG)"
+  sections:
+    donations: "Spenden"
+    home: "Home"
+    logos: "Logos"
+    merchant: "Kaufmann"
+    identity: "Identität"
+  types:
+    primary: "BCH Logo Primär"
+    white: "BCH Logo Weißer Text"
+    mark: "BCH Logo Mark"
+    horizontal_primary: "BCH Logo Horizontal Primär"
+    horizontal_white: "BCH Logo Horizontal Weiß"
+    wallets_exchanges: ""
+  merchant:
+    title: ""
+    description: ""
+    primary: "Bitcoin Cash Accepted Here Primär"
+    orange: "Bitcoin Cash Accepted Here Orange"
+  donation:
+    title: ""
+    description: ""
+    primary: "Bitcoin Cash Donations Accepted Primär"
+    orange: "Bitcoin Cash Donations Accepted Orange"
+  identity:
+    title: "Visuelle Identität"
+    description: "Bitcoin Cash Schriftarten, Farben und mehr."
+    font: "Ubuntu Bold"
+    font_italic: "Ubuntu Bold Italic"
+    download: "Schriftart herunterladen"
+    orange: "Bitcoin Cash Orange"
+    grey: "Bitcoin Cash Grau"
+    white: "Bitcoin Cash Weiß"
+    hex: "Hex"
+    rgb: "RGB"
+    cmyk: "CMYK"
+    pantone: "Pantone"
+developers:
+  title: ""
+  description: ""
+  sections:
+    home: "Home"
+    getStarted: "Fang an"
+    news: "Nachrichten"
+  getStarted:
+    tech:
+      title: "Technik"
+      description: ""
+    learn:
+      title: "Lernen"
+      description: "Erlernen Sie Bitcoin Cash Entwicklung"
+    tools:
+      title: "Werkzeuge"
+      description: ""
+    workgroups:
+      title: "Arbeitsgruppen"
+      description: "Koordination der Gemeinschaft"
+    specs:
+      title: "Spezifikationen"
+      description: ""
+workgroups:
+  title: "BITCOIN CASH ARBEITSGRUPPEN"
+  description: ""
+  sections:
+    workgroups: "Arbeitsgruppen"
+    home: "Home"
+  tutorials:
+    title: "Tutorials"
+    description: ""
+  workgroups:
+    description: ""
+    sections:
+      communication: "Kommunikation"
+      officers: ""
+      parties: "Interessierte Parteien"
+      summaries: "Zusammenfassungen"
+    wg-daa:
+      title: "Dificulty Adjustment Algorithm"
+      description: ""
+    wg-blocksize:
+      title: "Block Size Increases"
+      description: ""
+    wg-fungibility:
+      title: "Fungibility"
+      description: ""
+    wg-hardforks:
+      title: "Regular Hardfork Mechanism"
+      description: ""
+    wg-malfix:
+      title: "Malleability Fixes"
+      description: ""
+    wg-opcodes:
+      title: "Op Codes"
+      description: ""
+    wg-protocol-spec:
+      title: "Formal Protocol Specification"
+      description: ""
+    wg-qa:
+      title: "Quality Assurance"
+      description: ""
+    wg-sidechains:
+      title: "Sidechains"
+      description: ""
+    wg-tokens:
+      title: "Tokens"
+      description: ""
+    wg-utxocommit-sync:
+      title: "UTXO Commitments and Syncing"
+      description: ""
+    wg-ux:
+      title: "User Experience"
+      description: ""
+    wg-watercooler:
+      title: "Watercooler"
+      description: ""
+learn:
+  title: ""
+  description: ""
+  sections:
+    home: "Home"
+    tutorials: "Tutorials"
+  tutorials:
+    title: "Tutorials"
+    description: ""
+specs:
+  title: ""
+  description: ""
+  sections:
+    home: "Home"
+    workgroups: "Arbeitsgruppen"
+    specifications: "Spezifikationen"
+    ecosystem: "Ökosystem"
+  specifications:
+    title: "Bitcoin Cash Spezifikationen"
+    description: ""
+  ecosystem:
+    title: "Bitcoin Cash Ökosystem"
+    description: ""
+tech:
+  title: ""
+  description: ""
+  sections:
+    home: "Home"
+    foundation: ""
+    emerging: ""
+  foundation:
+    title: ""
+    description: ""
+  emerging:
+    title: ""
+    description: ""
+tools:
+  title: ""
+  description: ""
+  sections:
+    home: "Home"
+    javascript: "Javascript"
+  javascript:
+    title: "Javascript"
+misc:
+  logo: "Logo"
+  dropdown_md_width: "3"
+  dropdown_sm_width: "3"
+sections:
+  about: "Über"
+  features: "Features"
+  nodes: "Nodes"
+  wallets: "Wallets"
+  community: "Community"
+  services: "Dienste"
+  projects: "Projekte"
+  exchanges: "Börsen"
+  graphics: "Logos / Grafik"
+  developers: ""
+  learn: "Lernen"
+  specs: ""
+  tech: "Technologie"
+  tools: "Werkzeuge"
+  workgroups: "Arbeitsgruppen"
+  faq: "FAQ"
+layout:
+  bitcoin_cash: "Bitcoin Cash"
+  lead: "Eine elektronische Peer-to-Peer Währung"
+  loading: "Lädt..."
+features:
+  - title: "Schnell"
+    description: ""
+  - title: "Zuverlässig"
+    description: ""
+  - title: "Niedrige Gebühren"
+    description: ""
+  - title: "Einfach"
+    description: ""
+  - title: "Stabil"
+    description: ""
+  - title: "Sicher"
+    description: ""
+headings:
+  about: "Die beste Währung der Welt"
+  developers: "Fang an"
+  exchanges: "Börsen"
+  faq: "Häufig gestellte Fragen"
+  news: "Nachrichten"
+  nodes: "Nodes"
+  projects: "Projekte"
+  services: "Dienste"
+  wallets: "Wallets"
+  listingrequest: ""
+  error404: ""
+  benefits: ""
+  why: ""
+  history: ""
+  development: ""
+error404:
+  subheading: ""
+  button: ""
+content:
+  about:
+    - |
+      Bitcoin bietet der Welt eine solide Währung, die der Originalvision von Bitcoin als "Peer-to-Peer Electronic Cash" entspricht. Der Nutzen für Händler oder Kunden sind zuverlässige Transaktionen mit geringen Transaktionskosten. Die Zukunft für Bitcoin Cash glänzt dank unlimitiertem Wachstum, globaler Akzeptanz, Innovation und dezentralisierter Entwicklung.
+    - |
+  faq:
+    - question: "Was ist Bitcoin Cash?"
+      answer:
+        - |
+    - question: "Ist Bitcoin Cash anders als \"Bitcoin\"?"
+      answer:
+        - |
+  why:
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+          - |
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+          - |
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+  benefits:
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+      - benefit: ""
+        descrip:
+          - |
+  history:
+      - |
+      - |
+      - |
+      - |
+  development:
+      - |
+      - |

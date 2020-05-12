@@ -1,0 +1,38 @@
+<section id="fh5co-workgroups" data-section="workgroups" data-section="workgroups">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 section-heading text-center">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 subtext to-animate">
+                        <h3>{% t 'workgroups.workgroups.description' %}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+                {% assign pages_list = site.pages | sort: 'workgroup' %}
+
+                {% for item in pages_list %}
+                    {% if item.group == 'workgroup' %}
+
+                    <div class="col-sm-12 to-animate">
+                        <div class="pop-shadow">
+                            <p>
+                                <ion-icon name="people"></ion-icon>
+                            </p>
+                            <a href="{{item.url}}">
+                                <h3>
+                                    <strong>{% t workgroups.workgroups.{{item.workgroup}}.title %}</strong>
+                                </h3>
+                            </a>
+                            <p>{% t workgroups.workgroups.{{item.workgroup}}.description %}</p>
+                            <div class="text-right">
+                                <a href="{{item.url}}" class="btn btn-secondary btn-round secondary">{% t 'viewmore' %}</a>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+        </div>
+    </div>
+</section>
